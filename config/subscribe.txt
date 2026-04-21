@@ -8,4 +8,5 @@ https://gist.githubusercontent.com/yzfneo/6ccc43ac7d633e7eef07b87d9c9081db/raw/m
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-# trigger
+https://tv.iill.top/m3u/Gather.m3u
+https://gist.githubusercontent.com/yzfneo/6ccc43ac7d633e7eef07b87d9c9081db/raw/mylist.m3u

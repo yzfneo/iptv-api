@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yzfneo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="# CCTV" tvg-name="# CCTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/# CCTV.png" group-title="🕘️更新时间",2026-04-21 14:16:23
+#EXTINF:-1 tvg-id="# CCTV" tvg-name="# CCTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/# CCTV.png" group-title="🕘️更新时间",2026-04-21 22:28:40
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN US" tvg-name="CNN US" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN US.png",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -10,7 +10,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/22530
 #EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBC News NOW.png",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 #EXTINF:-1 tvg-id="CBS News 24/7" tvg-name="CBS News 24/7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBS News 24/7.png",CBS News 24/7
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/bad84178-5af5-4c7f-b799-55a10f593c75:MRN2/variant/fd3bc9281fe3be69ef75fdb9b60d78a4/bandwidth/5980000.m3u8
+https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC News Live.png",ABC News Live
 https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=USBC39000171G&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-0n3n2ej0w8pl9_akamai
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNBC.png",CNBC
@@ -256,7 +256,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47872
 #EXTINF:-1 tvg-id="Sky Sports Action UK" tvg-name="Sky Sports Action UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sports Action UK.png",Sky Sports Action UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
 #EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sports Tennis UK.png",Sky Sports Tennis UK
-http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293804
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/5983
 #EXTINF:-1 tvg-id="Sky Sports+ UK" tvg-name="Sky Sports+ UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sports+ UK.png",Sky Sports+ UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
 #EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sports News UK.png",Sky Sports News UK

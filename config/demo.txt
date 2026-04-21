@@ -1,28 +1,39 @@
-# 中国央视频道
-CCTV 1
-CCTV 2
-CCTV 3
-CCTV 4
-CCTV 5
-CCTV 5+
-CCTV 6
-CCTV 7
-CCTV 8
-CCTV 9
-CCTV 10
-CCTV 11
-CCTV 12
-CCTV 13
-CCTV 14
-CCTV 15
-CGTN
-CGTN Documentary
-CGTN Русский
-CGTN Français
-CGTN Español
-CGTN العربية
+# CCTV
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV4欧洲
+CCTV4美洲
+CCTV5
+CCTV5+
+CCTV6
+CCTV7
+CCTV8
+CCTV9
+CCTV10
+CCTV11
+CCTV12
+CCTV13
+CCTV14
+CCTV15
+CCTV16
+CCTV17
 
-# 中国卫视频道
+# CETV
+CETV1
+CETV2
+CETV3
+CETV4
+
+# CGTN
+CGTN
+CGTN外语纪录
+CGTN法语
+CGTN西班牙语
+CGTN阿拉伯语
+
+# 卫视
 北京卫视
 东方卫视
 广东卫视
@@ -30,133 +41,850 @@ CGTN العربية
 江苏卫视
 湖南卫视
 四川卫视
+安徽卫视
+福建卫视
+甘肃卫视
+广西卫视
+贵州卫视
+海南卫视
+河北卫视
+黑龙江卫视
+湖北卫视
+吉林卫视
+江西卫视
+辽宁卫视
+内蒙古卫视
+宁夏卫视
+青海卫视
+山东卫视
+山西卫视
+陕西卫视
+天津卫视
+云南卫视
+深圳卫视
 
 # 港澳
-凤凰卫视
-NOW新闻台
-NOW财经台
+凤凰中文
+凤凰资讯
 ViuTV
 ViuTVsix
 HOY TV
-HOY 资讯台
-RTHK 31
-RTHK 32
-RTHK 33
-RTHK 34
-RTHK 35
-澳门卫视
+HOY 資訊台
+HOY 國際財經台
+HOY劇集台
+HOY怪談台
+HOY生活台
+HOY體育台
+RTHK1
+RTHK2
+RTHK3
+RTHK4
+RTHK5
+RTHK31
+RTHK32
+RTHK33
+RTHK34
+RTHK35
+RTHK普通话
 
 # 台湾
 TVBS
-TVBS 新闻
-民视
-华视
-台视
-东森新闻
-东森财经
-中视
-纬来
-八大
-三立
-寰宇新闻
-镜电视
-爱尔达
-MTV Live
-CINEMAX
+TVBS新聞
+TVBS歡樂台
+TVBS精采台
+民視
+民視台灣台
+民視影劇台
+民視新聞台
+民視旅遊台
+民視第一台
+民視綜藝台
+華視
+華視新聞
+台視
+台視新聞
+中視
+中視新聞
+東森新聞台
+東森財經新聞台
+東森電影台
+東森洋片台
+東森綜合台
+東森戲劇台
+東森幼幼台
+東森購物一台
+東森購物二台
+東森購物三台
+東森購物四台
+緯來體育台
+緯來電影台
+緯來綜合台
+緯來戲劇台
+緯來日本台
+緯來育樂台
+八大精彩台
+八大綜藝台
+三立綜合台
+三立新聞iNEWS
+寰宇新聞台
+寰宇新聞台灣台
+寰宇財經台
+鏡電視新聞台
+愛爾達娛樂台
+愛爾達生活旅遊台
+龍華偶像台
+龍華卡通台
+龍華戲劇台
+龍華日韓台
+龍華洋片台
+龍華經典台
+龍華電影台
+靖天國際台
+靖天映畫
+靖天戲劇台
+靖天日本台
+靖天綜合台
+靖天育樂台
+靖天資訊台
+靖天電影台
+靖天卡通台
+靖洋卡通台Nice Bingo
+靖洋戲劇台
+博斯運動一台
+博斯運動二台
+博斯無限台
+博斯無限二台
+博斯高球台
+博斯高球二台
+博斯網球台
+博斯魅力台
+年代新聞台
+年代音乐1022
+年代音乐1032
+年代音乐105.6
+年代音乐889
+年代音乐959
+大愛電視
+大愛二台
+人間衛視
+好消息
+好消息2台
+客家電視台
+原住民族電視台
+國會頻道1
+國會頻道2
+台灣戲劇台
+好萊塢電影台
+新唐人亞太台
+中天亞洲台
+中天娛樂台
+中天新聞台
+中天綜合台
+公視戲劇
+
+# 香港
+無綫新聞台
+鳳凰衛視中文台
+鳳凰衛視資訊台
+鳳凰衛視香港台
+香港之声
+香港卫视
+明珠台
+TVB Plus
+TVB XING HE
 
 # 美国新闻
 CNN US
+CNN International
 Fox News
+MSNBC
 NBC News NOW
 CBS News 24/7
 ABC News Live
-MSNBC
-NEWSMAX
-Reuters
-C-SPAN
 CNBC
 Fox Business
 Bloomberg TV
+C-SPAN
+NEWSMAX
+NewsNation
+Reuters
+LiveNOW from FOX
 
 # 美国体育
 ESPN
 ESPN2
 ESPNU
-ESPN News
+ESPNEWS
+ESPN8: The Ocho
+ESPN Deportes
 ACC Network
 SEC Network
 FS1
+FS2
 CBS Sports Network
-NBC Sports
+CBS Sports Golazo Network
+NBC Sports NOW
+NBC Sports Bay Area
+NBC Sports Boston
+NBC Sports California
+NBC Sports Philadelphia
 NBA TV
 NFL Network
+NFL RedZone
 MLB Network
 NHL Network
 Golf Channel
 Tennis Channel
 F1 Channel
-MotoGP
+MotoGP TV
 UFC
 WWE Network
+beIN SPORTS
+beIN SPORTS XTRA
+beIN Sports HD
+beIN Sports 2 HD
+beIN Sports 3
+beIN Sports 4
+beIN Sports 5
 
 # 美国电影
 HBO
+HBO HD
 HBO Hits
+HBO Hits HD
 HBO Comedy
 HBO Drama
+HBO Family HD
 HBO Movies
+HBO Signature HD
 Showtime
+Showtime 2
+Showtime Extreme
+Showtime Next
+Showtime Women
+Showtime Family Zone
+Showtime Showcase
 Starz
+Starz Edge
+Starz in Black
+Starz Comedy
+Starz Cinema
+Starz Kids & Family
+Starz Encore
+Starz Encore Action
+Starz Encore Classic
+Starz Encore Black
+Starz Encore Family
+Starz Encore Suspense
+Starz Encore Westerns
 Cinemax
+Cinemax Action
+Cinemax Classics
+Cinemax Hits
 MGM+
+MGM+ Drive-In
+MGM+ Hits
+MGM+ Marquee
 TCM
 Paramount Network
+Paramount+ with Showtime
+FX
+FXM
+FXX
+SHOxBET
+
+# 美国综合
+AMC
+AMC Thrillers
+TBS
+TNT
+USA Network
+Freeform
+SYFY
+Comedy Central
+CMT
+BET
+VH1
+Hallmark Channel
+Hallmark Family
+Hallmark Mystery
+Lifetime
+ION
+MeTV
+TV Land
+Bounce
+GRIT
+POP
+Oxygen True Crime
+Ovation
+Court TV
+Investigation Discovery
+LMN
+
+# 美国儿童
+Cartoon Network
+Nickelodeon
+Nick Jr.
+Nicktoons
+Disney Channel
+Disney XD
+Disney JR
+Boomerang
+Adult Swim
+Kids
 
 # 英国新闻
-BBC News
+BBC News UK
+BBC News International
 Sky News
+ITV1 UK
 
 # 英国体育
-Sky Sports Main Event
-Sky Sports Premier League
-Sky Sports Football
-Sky Sports F1
-Sky Sports Cricket
-Sky Sports Golf
-Sky Sports Racing
-TNT Sports
+Sky Sports Main Event UK
+Sky Sports Premier League UK
+Sky Sports Football UK
+Sky Sports F1 UK
+Sky Sports Cricket UK
+Sky Sports Mix UK
+Sky Sports Golf UK
+Sky Sports Racing UK
+Sky Sports Action UK
+Sky Sports Tennis UK
+Sky Sports+ UK
+Sky Sports News UK
+TNT Sports 1 UK
+TNT Sports 2 UK
+TNT Sports 3 UK
+TNT Sports 4 UK
 
 # 英国电影
-Sky Cinema
+Sky Cinema Premiere UK
+Sky Cinema Select UK
+Sky Cinema Hits UK
+Sky Cinema Greats UK
+Sky Cinema Family UK
+Sky Cinema Action UK
+Sky Cinema Comedy UK
+Sky Cinema Thriller UK
+Sky Cinema Drama UK
+Sky Cinema Sci-Fi & Horror UK
+Sky Cinema Animation UK
+Sky Atlantic UK
+Sky Witness UK
+Sky Comedy UK
+Sky Sci-Fi UK
+Sky One UK
+Sky Arts UK
 BBC America
-BritBox
+BritBox Mysteries UK
+
+# 英国综合
+ITV2 UK
+ITV3 UK
+ITV4 UK
+Channel 4 UK
+Channel 5 UK
+Film4 UK
+More4 UK
+E4 UK
+BBC One UK
+BBC Two UK
+BBC Three UK
+BBC Four UK
+BBC Comedy UK
+BBC Drama UK
+Sky Documentaries UK
+Sky History UK
+Sky History 2 UK
+Sky Crime UK
+Sky Nature UK
+Travel Channel UK
 
 # 加拿大体育
-TSN 1
-TSN 2
-TSN 3
-TSN 4
-TSN 5
-Sportsnet
+TSN1 CA
+TSN2 CA
+TSN3 CA
+TSN4 CA
+TSN5 CA
+Sportsnet Ontario CA
+Sportsnet East CA
+Sportsnet West CA
+Sportsnet Pacific CA
+Sportsnet ONE CA
+Sportsnet 360 CA
+Sportsnet World CA
+Sportsnet New York
+Sportsnet Pittsburgh
+
+# 加拿大综合
+CTV Toronto CA
+CTV2 Vancouver CA
+CBC Toronto CA
+CBC Vancouver CA
+CityNews Toronto CA
+CityNews Vancouver CA
+Global News Toronto CA
+Global News National CA
+Global News BC CA
+The Weather Network CA
+Crave 1 CA
+Crave 2 CA
+Crave 3 CA
+Crave 4 CA
+CTV Comedy Channel CA
+CTV Drama Channel CA
+CTV Life Channel CA
+CTV Sci-Fi Channel CA
+CTV Speed Channel CA
+Crime & Investigation CA
+
+# 加拿大4K
+Love Nature 4K CA
+Sportsnet 4K CA
+Sportsnet One 4K CA
+TSN 4K CA
 
 # 欧洲体育
-EuroSport
-Sport TV
-Cosmote Sport
-Ziggo Sport
-Premier Sports
+EuroSport 1
+EuroSport 2
+Sport TV 1 PT
+Sport TV 2 PT
+Sport TV 3 PT
+Sport TV 4 PT
+Sport TV 5 PT
+Sport TV 6 PT
+Sport TV+ PT
+Cosmote Sport 1 GR
+Cosmote Sport 2 GR
+Cosmote Sport 3 GR
+Cosmote Sport 4 GR
+Cosmote Sport 5 GR
+Cosmote Sport 6 GR
+Cosmote Sport 7 GR
+Cosmote Sport 8 GR
+Cosmote Sport 9 GR
 
 # 澳洲体育
-Fox Sports
+Fox Sports 501 AU
+Fox Sports 502 AU
+Fox Sports 503 AU
+Fox Sports 504 AU
+Fox Sports 505 AU
+Fox Sports 506 AU
+Fox Sports 507 AU
 
 # 新西兰体育
-SKY Sport
+SKY Sport 1 NZ
+SKY Sport 2 NZ
+SKY Sport 3 NZ
+SKY Sport 4 NZ
+SKY Sport 5 NZ
+SKY Sport 6 NZ
+SKY Sport 7 NZ
+SKY Sport 8 Premier League NZ
+SKY Sport 9 NZ
 
-# 4K超清
-Love Nature 4K
-Sportsnet 4K
-TSN 4K
+# 马来西亚
+天映經典頻道
+天映马来西亚
+AOD
+QJ
+Channel 8
+Channel U
 
-# 亚太其他
-beIN Sports
-Hub Sports
+# 新加坡
+iQIYI
+
+# 4K
+Clarity 4K
+Loupe 4K
+Bloomberg TV 4K
+Sky Sports F1 4K UK
+NESN 4K
+V Sport UltraHD SE
+
+# 国际新闻
+France 24 English FR
+FRANCE24 英文台
+Euronews FR
+DW English
+DW德國之聲
+Al Jazeera English QA
+
+# 国际电影
+CinemaWorld
+Classic Cinema
+Sundance TV
+IFC
+ScreenPix
+ScreenPix Action
+ScreenPix Voices
+ScreenPix Westerns
+MoviePlex
+IndiePlex
+RetroPlex
+
+# 国际综合
+National Geographic
+Nat Geo Wild
+Discovery Channel
+Discovery HD
+Discovery Life
+Discovery Turbo
+Discovery Family Channel
+Animal Planet
+Science Channel
+History Channel
+Smithsonian Channel
+MLB Network
+HGTV
+Food Network
+Cooking Channel
+Travel Channel
+Magnolia Network
+TLC
+
+# 香港电台
+商業電台 叱咤903
+商業電台 雷霆881
+
+# 台湾电台
+HitFM劲曲调频
+AsiaFM成都96.5
+NiceFM
+動感101
+動感955
+I Radio
+城市96.5
+
+# 国内电台
+北京交通广播
+北京文艺广播
+北京新闻广播
+北京音乐广播
+北京体育广播
+北京969经典调频
+上海交通广播
+上海新闻广播
+上海戏曲广播
+上海故事广播
+上海第一财经
+上海都市
+广州新闻资讯广播
+广州经济交通广播
+广州金曲音乐广播
+广州青少年广播
+深圳交通频率-快乐1062
+深圳新闻频率-先锋898
+深圳生活频率-生活942
+深圳音乐频率-飞扬971
+成都交通文艺广播
+成都故事广播
+成都新闻广播
+成都经济广播
+成都潮台88.7
+杭州之声
+杭州交通广播
+杭州FM90.7音乐台
+江苏交通广播
+江苏健康广播
+江苏音乐广播
+江苏财经广播
+江苏金陵之声
+江苏经典流行音乐
+浙江之声
+浙江交通之声
+浙江城市之声
+浙江女主播电台
+浙江民生996
+浙江经济广播
+浙江音乐调频
+湖南交通广播
+湖南新闻频道
+湖南电台潇湘之声
+湖南经济广播
+湖南金鹰955
+湖北之声
+湖北城市之声
+湖北经典音乐广播
+湖北交通广播
+楚天交通广播
+楚天音乐广播
+安徽交通广播
+安徽农村广播
+安徽戏曲广播
+安徽旅游广播
+安徽生活广播
+安徽经济广播
+安徽综合广播
+安徽老年广播
+安徽音乐广播
+福建交通应急广播
+福建新闻广播
+福建经济电台961
+福建987私家车广播
+福建东南广播
+福建音乐广播
+山东交通广播
+山东乡村广播
+山东体育休闲广播
+山东文艺广播
+山东经典音乐广播
+山东音乐广播
+山西交通广播
+山西故事广播
+山西文艺广播
+山西经济广播
+山西综合广播
+山西音乐广播
+陕西交通广播
+陕西农村广播
+陕西戏曲广播
+陕西故事广播
+陕西新闻广播
+陕西秦腔广播
+陕西经济广播
+陕西都市广播
+陕西青少广播
+陕西音乐广播
+河南交通广播
+河南信息广播
+河南农村广播
+河南教育广播
+河南新闻广播
+河南经济广播
+河北交通广播
+河北农民广播
+河北文艺广播
+河北新闻广播
+河北生活广播
+河北经济广播
+河北综合广播
+河北音乐广播
+辽宁交通广播
+辽宁乡村广播
+辽宁经典音乐广播
+辽宁经济广播
+辽宁综合广播
+吉林交通广播
+吉林乡村广播
+吉林健康娱乐广播
+吉林教育广播
+吉林新闻综合广播
+吉林经济广播
+吉林资讯广播
+黑龙江交通广播
+黑龙江生活广播
+黑龙江音乐广播
+哈尔滨交通广播
+哈尔滨文艺广播
+哈尔滨经济广播
+哈尔滨音乐广播
+大连交通广播
+大连新闻综合广播
+大连都市之声广播
+长春交通之声
+长春城市生活广播
+长春经济广播
+长沙交通广播
+长沙城市之声
+长沙新闻广播
+长沙音乐广播
+南昌交通广播
+江西农村广播
+江西新闻广播
+江西民生广播
+江西财经广播
+江西都市广播
+江西音乐广播
+南京新闻综合广播
+南京经济广播
+南京体育广播
+南宁1074交通台
+南宁990新闻台
+南宁快乐895
+南宁经典1049
+广西交通广播
+广西北部湾之声
+广西教育广播
+广西经济广播
+广西综合广播
+广西音乐台
+云南交通广播
+云南新闻广播
+云南民族广播
+云南经济广播
+云南音乐广播
+贵州交通广播
+贵州新闻广播
+贵州旅游广播
+贵州经济广播
+贵州综合广播
+贵州音乐广播
+贵州交通广播
+海南交通广播
+海南新闻广播
+海南旅游广播
+海南民生广播
+海南音乐广播
+四川交通广播
+四川新闻广播
+四川民族广播
+四川经济广播
+四川综合广播
+天津交通广播
+重庆交通广播
+重庆私家车广播
+重庆经济广播
+ 重庆音乐广播
+陕西交通广播
+甘肃交通广播
+甘肃农村广播
+甘肃新闻综合广播
+甘肃经济广播
+甘肃都市调频
+甘肃青春调频
+青海交通音乐广播
+青海新闻综合广播 青海之声
+青海生活广播花儿调频
+青海经济广播
+内蒙古交通之声广播
+内蒙古新闻广播
+内蒙古汉语新闻综合广播
+内蒙古经济生活广播
+内蒙古绿野之声广播
+内蒙古草原之声广播
+内蒙古音乐之声
+
+# 中国之声
+中国之声
+中国乡村之声
+中国交通广播
+经济之声
+文艺之声
+音乐之声
+经典947
+
+# 香港台
+台海之声
+大湾区之声
+神州之声
+民族之声
+老年之声
+轻松调频
+
+# 特色频道
+Red Bull TV
+FashionTV FR
+FashionTV 時尚頻道
+trace Urban
+Trace Urban UK
+TRACE Sport Stars
+Love Nature
+A&E
+FYI
+Ginx TV
+Game Show Network
+Buzzer
+AXS TV
+Comet TV
+Grit TV
+Outdoor Channel
+World Fishing Network
+Quest UK
+BBC Earth
+BBC Earth UK
+Science Channel
+Nat Geo Wild
+Nat Geo People
+PBS
+PBS Nature
+PBS Science
+PBS History
+
+# 电影
+Kino
+IndiePlex
+MoviePlex
+RetroPlex
+HerSphere by Lionsgate
+OuterSphere by Lionsgate
+MovieSphere by Lionsgate
+
+# 儿童
+Baby First
+Baby TV
+
+# 音乐
+Vevo '70s
+Vevo '80s
+Vevo '90s
+Vevo 2010s
+Vevo 2K
+Vevo Country
+Vevo Hip-Hop
+Vevo Latino
+Vevo Pop
+Vevo R&B
+Vevo Reggaeton & Trap
+Vevo Rock
+MTV
+MTV Classic
+MTV Live
+MTV2
+
+# 多语言
+ARIRANG阿里郎頻道
+CNBC Asia 財經台
+SBN全球財經台
+CGTN阿拉伯语
+
+# 新增补充
+Nice TV靖天歡樂台
+Smart知識台
+ELTV英語學習台
+LiveABC互動英語頻道
+INULTRA
+影迷數位紀實台
+影迷數位電影台
+fun探索娛樂台
+amc電影台
+達文西頻道
+經典卡通台
+經典電影台
+精選動漫台
+ROCK Action
+ROCK Entertainment
+ROCK Xstream搖滾極限頻道
+Lifetime 娛樂頻道
+CI 罪案偵查頻道
+History 歷史頻道
+MagellanTV頻道 (麥哲倫頻道)
+MagellanTV Wildest
+Smart知識台
+MOMO親子台
+Nick Jr. 兒童頻道
+尼克兒童頻道
+Pet Club TV
+IFC
+FREE
+FM106.9海城综合广播
+FM898烟台汽车音乐广播
+KFM981
+KLT-靖天國際台
+LS Time電影台
+LUXE TV Channel
+MPD
+MS NOW
+1047 NiceFM
+4seven UK
+8TV
+929德州文艺广播
+935爱旅游
+975摩登音乐台
+991新乡综合广播
+4seven UK
+8TV
+AOD
+Altitude Sports
+Altitude Sports

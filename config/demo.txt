@@ -1,20 +1,20 @@
-📺央视频道,#genre#
-CCTV 1 综合
-CCTV 2 财经
-CCTV 3 综艺
-CCTV 4 中文国际
-CCTV 5 体育
-CCTV 5+ 体育赛事
-CCTV 6 电影
-CCTV 7 国防军事
-CCTV 8 电视剧
-CCTV 9 记录
-CCTV 10 科教
-CCTV 11 戏曲
-CCTV 12 社会与法
-CCTV 13 新闻
-CCTV 14 少儿
-CCTV 15 音乐
+# 中国央视频道
+CCTV 1
+CCTV 2
+CCTV 3
+CCTV 4
+CCTV 5
+CCTV 5+
+CCTV 6
+CCTV 7
+CCTV 8
+CCTV 9
+CCTV 10
+CCTV 11
+CCTV 12
+CCTV 13
+CCTV 14
+CCTV 15
 CGTN
 CGTN Documentary
 CGTN Русский
@@ -22,7 +22,7 @@ CGTN Français
 CGTN Español
 CGTN العربية
 
-📡卫视频道,#genre#
+# 中国卫视频道
 北京卫视
 东方卫视
 广东卫视
@@ -31,782 +31,132 @@ CGTN العربية
 湖南卫视
 四川卫视
 
-🌆港澳,#genre#
-凤凰卫视·中文
-凤凰卫视·资讯
-凤凰卫视·香港
+# 港澳
+凤凰卫视
 NOW新闻台
 NOW财经台
-Now Sports 精选
 ViuTV
 ViuTVsix
-HOY 国际财经台
 HOY TV
 HOY 资讯台
-HOY 生活台
-HOY 剧集台
-HOY 怪谈台
-HOY 体育台
 RTHK 31
 RTHK 32
 RTHK 33
 RTHK 34
 RTHK 35
-澳门Macau
-澳门葡文
-澳视澳门
-澳门资讯
-澳门体育
-澳门综艺
+澳门卫视
 
-🌏台湾,#genre#
-博斯运动一
-博斯运动二
-博斯无限一
-博斯无限二
-博斯高球一
-博斯高球二
-博斯网球
-博斯魅力
-纬来日本
-纬来体育
-纬来电影
-纬来综合
-纬来戏剧
-纬来育乐
-年代新闻
-中天亚洲
-中天综合
-中天娱乐
-中天新闻
-中视
-中视新闻
-东森新闻
-东森财经
-东森电影
-东森洋片
-东森综合
-东森戏剧
-东森幼幼
+# 台湾
 TVBS
 TVBS 新闻
-TVBS 欢乐
-TVBS 精彩
-靖天国际
-靖天欢乐
-靖天映画
-靖天戏剧
-靖天日本
-靖天综合
-靖天育乐
-靖天资讯
-靖天电影
-靖天卡通
-靖洋卡通
-靖洋戏剧
-龙华偶像
-龙华卡通
-龙华戏剧
-龙华日韩
-龙华洋片
-龙华经典
-龙华电影
-八大精彩
-八大综艺
-台视
-台视新闻
-公视戏剧
-台湾戏剧
-寰宇新闻
-寰宇新闻台湾
-寰宇财经
-华视
-华视新闻
 民视
-民视台湾
-民视影剧
-民视新闻
-民视旅游
-民视第一
-民视综艺
-三立综合
-三立新闻iNEWS
-好莱坞电影
-龙祥时代
-CINEMAX
+华视
+台视
+东森新闻
+东森财经
+中视
+纬来
+八大
+三立
+寰宇新闻
+镜电视
+爱尔达
 MTV Live
-爱尔达娱乐
-爱尔达生活旅游
-镜电视新闻
-倪珍播新闻
-半岛国际新闻
-DW德国之声
-FRANCE24
-NHK 新闻资讯
-CNBC Asia 财经
-SBN 全球财经
-Bloomberg TV
-DayStar
-亚洲旅游
-时尚运动X
-智林体育
-FashionTV 时尚频道
-第一商业
-amc电影台
-MCE 我的欧洲电影
-影迷数字电影
-影迷数字纪实
-CinemaWorld
-经典电影
-Love Nature
-视纳华仁纪实频道
-CI 罪案侦查频道
-History 历史频道
-MagellanTV
-ROCK Action
-ROCK Entertainment
-ROCK Xstream
-Arirang TV
-韩国娱乐台 KMTV
-Lifetime 娱乐频道
-fun探索娱乐
-HITS频道
-猪哥亮歌厅秀
-采昌剧
-CLASSICA 古典乐
-Mezzo Live
-电影原声 CMusic
-TRACE Urban
-TRACE Sport Stars
-GINX Esports TV
-DreamWorks 梦工厂动画
-精选动漫
-经典卡通
-MOMO亲子
-Nick Jr. 儿童频道
-尼克儿童频道
-Pet Club TV
-LiveABC互动英语频道
-ELTA生活英语
-Smart知识
-达文西频道
-滚动力rollor
-INULTRA
-Global Trekker
-LUXE TV Channel
-TV5MONDE STYLE 生活时尚
-幸福空间居家
-车迷TV
-金光布袋戏
-原住民族电视
-客家电视
-人间卫视
-大爱电视
-大爱电视2
-好消息1
-好消息2
-国会频道1
-国会频道2
-东森购物一
-东森购物二
-东森购物三
-东森购物四
-新唐人亚太
+CINEMAX
 
-⚽体育,#genre#
-Eurosport 1
-Eurosport 2
-TNT Sport 1
-TNT Sport 2
-TNT Sport 3
-TNT Sport 4
-beIN Sports 1
-beIN Sports 2
-beIN Sports 3
-beIN Sports 4
-beIN Sports 5
-Hub Premier 1
-Hub Premier 2
-Hub Premier 3
-Hub Premier 4
-Hub Premier 5
-Hub Premier 6
-Hub Premier 7
-Hub Premier 8
-Hub Sports 1
-Hub Sports 2
-Hub Sports 3
-Hub Sports 4
-Hub Sports 5
-Hub Sports 6
-Hub Sports 7
-Hub Sports 8
-Spotv 1
-Spotv 2
-Fight Sports
-Sky Sports Cricket
-Sky Sports Premier League
-Sky Sports F1
-Sky Sports Mix
-
-📺综合,#genre#
-Red Bull TV
-BBC Earth
-BBC Lifestyle
-Discovery
-HBO
-HBO Hits
-HBO Family
-HBO Signature
-
-🌴马来西亚,#genre#
-翡翠台
-明珠台
-TVB Plus
-无线新闻台
-娱乐新闻台
-千禧经典
-天映频道
-天映经典
-亚洲武侠
-TVB 星河
-Astro AOD
-Astro AEC
-Astro QJ
-Astro 欢喜台
-iQIYI
-八度空间
-Channel 5
-Channel 8
-Channel U
-
-📍地方台,#genre#
-浙江卫视
-广东体育
-广东珠江
-东方卫视 4K
-五星体育
-第一财经
-上海新闻综合
-上海都市频道
-魔都眼
-新纪实
-爱上海
-
-🎮游戏赛事,#genre#
-B站热门赛事
-B站CS 2
-虎牙CS 2
-B站英雄联盟
-虎牙英雄联盟1
-虎牙英雄联盟2
-斗鱼英雄联盟1
-斗鱼英雄联盟2
-B站英雄联盟手游
-B站王者荣耀1
-B站王者荣耀2
-虎牙王者荣耀1
-虎牙王者荣耀2
-斗鱼王者荣耀1
-斗鱼王者荣耀2
-B站绝地求生
-虎牙绝地求生1
-虎牙绝地求生2
-斗鱼绝地求生
-斗鱼绝地地图
-虎牙和平精英
-斗鱼和平精英
-虎牙金铲铲之战
-斗鱼金铲铲之战
-虎牙DOTA2
-斗鱼DOTA2
-斗鱼云顶之弈
-虎牙永劫无间
-斗鱼永劫无间
-B站使命召唤手游
-虎牙使命召唤手游
-斗鱼使命召唤手游
-虎牙穿越火线
-斗鱼穿越火线1
-斗鱼穿越火线2
-虎牙穿越火线手游
-B站第五人格
-虎牙第五人格
-斗鱼第五人格
-虎牙逆战
-B站无畏契约
-虎牙无畏契约
-斗鱼无畏契约
-斗鱼原神
-B站QQ飞车手游
-斗鱼QQ飞车手游
-斗鱼梦幻西游手游
-斗鱼街霸
-B站JJ斗地主
-斗鱼JJ斗地主
-斗鱼我的世界
-斗鱼FIFA
-斗鱼火影忍者
-斗鱼跑跑卡丁车
-斗鱼跑跑卡丁车手游
-
-📻广播,#genre#
-Big Radio
-CAPITAL 958
-CityFM城市广播
-CityFM大苗栗广播
-CityFM台北健康
-CityFM台南之音
-CNA 938
-CNR 经济之声
-CNR 中国之声
-CRI HIT FM北京
-CRI Hit FM FM88.7
-CRI 环球信息广播 FM90.5
-CRI 华语环球广播
-CRI 环球资讯广播
-CRI 南海之声
-CRI 轻松调频
-CRI 外语教学广播
-CRI 英语环球广播
-CRI 粤语国际
-Kiss Radio
-LOVE 972
-M-Radio全国广播
-News98新闻台
-VOCALO
-YES 933
-阿拉善汉语广播
-阿里郎电台
-安徽故事广播
-安徽广播
-安徽交通广播
-安徽经济广播
-安徽高速之声
-安徽城市之声
-安徽戏曲广播
-安徽之声
-北京广播
-北京经典969
-潮流音乐台
-楚天广播
-楚天交通广播
-动感音乐台
-法国国际广播电台
-房山电台
-飞碟电台
-福建东南广播
-福建都市广播
-福建汽车广播
-福州广播
-福州交通之声
-福州新闻广播
-福州左海之声
-甘肃都市调频
-甘肃经济广播
-格莱美音乐台
-广东广播
-广西北部湾之声
-广西广播
-广西交通广播
-广西教育广播
-广西经济广播
-贵州都市广播
-贵州故事广播
-贵州广播
-贵州经济广播
-贵州旅游广播
-国立教育电台
-海南广播
-河北广播
-河北交通广播
-河北经济广播
-河北生活广播
-河北文艺广播
-河南交通广播
-河南教育广播
-河南经济广播
-河南戏曲广播
-河南新闻广播
-河南信息广播
-黑龙江都市女性广播
-黑龙江高校广播
-黑龙江广播
-黑龙江老年少儿广播
-呼伦贝尔汉语广播
-呼伦贝尔蒙语广播
-湖北城市之声
-湖北经典广播
-湖北亲子广播
-湖北生活广播
-湖北之声
-湖北资讯广播
-湖南文艺广播
-湖南音乐之声
-华语金曲500首
-怀集音乐台
-江苏广播
-江苏文艺广播
-江西都市广播
-老歌音乐台
-辽宁交通广播
-辽宁经典广播
-辽宁经济广播
-辽宁乡村广播
-辽宁之声
-民谣蓝调
-民谣音乐台
-内蒙古经济生活广播
-内蒙���蒙��对外广播
-内蒙古蒙语新闻广播
-内蒙古评书曲艺广播
-内蒙古新闻广播
-宁波广播
-宁波交通广播
-宁波经济广播
-宁波新闻广播
-宁夏广播
-宁夏经济广播
-宁夏旅游广播
-宁夏新闻广播
-青岛摩登音乐调频
-青岛音体广播
-青海交通广播
-青海经济广播
-青海新闻广播
-清晨音乐台
-山东交通广播
-山东经典广播
-山东经济广播
-山东体育休闲广播
-陕西都市广播
-陕西广播
-陕西交通广播
-陕西经济广播
-陕西农村广播
-陕西青少广播
-
-🌎美国新闻,#genre#
+# 美国新闻
 CNN US
-CNN International
 Fox News
-MS NOW
 NBC News NOW
 CBS News 24/7
 ABC News Live
-LiveNOW from FOX
+MSNBC
 NEWSMAX
 Reuters
-NewsNation
 C-SPAN
 CNBC
 Fox Business
+Bloomberg TV
 
-🌎英国新闻,#genre#
-BBC News UK
-BBC News International
-Sky News
-CNBC UK
-
-🌎美国体育,#genre#
+# 美国体育
 ESPN
 ESPN2
-ESPNEWS
 ESPNU
-ESPN Deportes
-ESPN8 The Ocho
+ESPN News
 ACC Network
 SEC Network
 FS1
-FS2
 CBS Sports Network
-CBS Sports Golazo Network
-NBC Sports NOW
-NBC Sports Bay Area
-NBC Sports Boston
-NBC Sports California
-NBC Sports Philadelphia
-beIN SPORTS
-beIN SPORTS XTRA
-Fubo Sports Network
-Marquee Sports Network
-Big Ten Network
+NBC Sports
 NBA TV
-Spectrum SportsNet LA Dodgers
-Spectrum SportsNet Lakers
-YES Network
-Altitude Sports
-Sportsnet New York
-Sportsnet Pittsburgh
 NFL Network
-NFL RedZone
 MLB Network
 NHL Network
-Willow Cricket
-Willow Sports
 Golf Channel
 Tennis Channel
 F1 Channel
-MotoGP TV
-FanDuel TV
-FanDuel Racing
-FanDuel Sports Network Detroit
-FanDuel Sports Network Florida
-FanDuel Sports Network Midwest
-FanDuel Sports Network North
-FanDuel Sports Network Ohio
-FanDuel Sports Network Oklahoma
-FanDuel Sports Network West
-FanDuel Sports Network SoCal
-FanDuel Sports Network Southeast
-FanDuel Sports Network Southwest
-FanDuel Sports Network Sun
-FanDuel Sports Network Wisconsin
-Red Bull TV
-Space City Home Network
-MSG
-MSG 2
-MSGSN
-WWE Network
+MotoGP
 UFC
-PFL
-The Cowboy Channel
-Strongman Champions League
-World Fishing Network
+WWE Network
 
-🌎加拿大体育,#genre#
-TSN1 CA
-TSN2 CA
-TSN3 CA
-TSN4 CA
-TSN5 CA
-Sportsnet Ontario CA
-Sportsnet East CA
-Sportsnet West CA
-Sportsnet Pacific CA
-Sportsnet ONE CA
-Sportsnet 360 CA
-Sportsnet World CA
-
-🌎英国体育,#genre#
-Sky Sports Main Event UK
-Sky Sports Premier League UK
-Sky Sports Football UK
-Sky Sports News UK
-Sky Sports F1 UK
-Sky Sports Cricket UK
-Sky Sports Mix UK
-Sky Sports Golf UK
-Sky Sports Racing UK
-Sky Sports Action UK
-Sky Sports+ UK
-Sky Sports Tennis UK
-TNT Sports 1 UK
-TNT Sports 2 UK
-TNT Sports 3 UK
-TNT Sports 4 UK
-Premier Sports 1 UK
-Premier Sports 2 UK
-
-🌎意大利体育,#genre#
-EuroSport 1 UK
-EuroSport 2 UK
-
-🌎葡萄牙体育,#genre#
-Sport TV 1 PT
-Sport TV 2 PT
-Sport TV 3 PT
-Sport TV 4 PT
-Sport TV 5 PT
-Sport TV 6 PT
-Sport TV+ PT
-
-🌎希腊体育,#genre#
-Cosmote Sport 1 GR
-Cosmote Sport 2 GR
-Cosmote Sport 3 GR
-Cosmote Sport 4 GR
-Cosmote Sport 5 GR
-Cosmote Sport 6 GR
-Cosmote Sport 7 GR
-Cosmote Sport 8 GR
-Cosmote Sport 9 GR
-
-🌎阿尔巴尼亚体育,#genre#
-Super Sport 1 AL
-Super Sport 2 AL
-Super Sport 3 AL
-Super Sport 4 AL
-Super Sport 5 AL
-Super Sport 6 AL
-
-🌎荷兰体育,#genre#
-Ziggo Sport NL
-Ziggo Sport 2 NL
-Ziggo Sport 3 NL
-Ziggo Sport 4 NL
-
-🌎新西兰体育,#genre#
-SKY Sport 1 NZ
-SKY Sport 2 NZ
-SKY Sport 3 NZ
-SKY Sport 4 NZ
-SKY Sport 5 NZ
-SKY Sport 6 NZ
-SKY Sport 7 NZ
-SKY Sport 8 Premier League NZ
-SKY Sport 9 NZ
-
-🌎澳洲体育,#genre#
-Fox Sports 501 AU
-Fox Sports 502 AU
-Fox Sports 503 AU
-Fox Sports 504 AU
-Fox Sports 505 AU
-Fox Sports 506 AU
-Fox Sports 507 AU
-
-🌎4K超清,#genre#
-Love Nature 4K CA
-Sportsnet 4K CA
-Sportsnet One 4K CA
-TSN 4K CA
-Clarity 4K
-Loupe 4K
-Bloomberg TV 4K
-NESN 4K
-Sky Sports F1 4K UK
-V Sport UltraHD SE
-
-🌎精品电影,#genre#
+# 美国电影
 HBO
 HBO Hits
-HBO Drama
 HBO Comedy
+HBO Drama
 HBO Movies
-Paramount+ with Showtime
-Showtime 2
-Showtime Extreme
-Showtime Next
-SHOxBET
-Showtime Women
-Showtime Family Zone
-Showtime Showcase
+Showtime
 Starz
-Starz Edge
-Starz in Black
-Starz Comedy
-Starz Cinema
-Starz Kids & Family
-Starz Encore
-Starz Encore Action
-Starz Encore Classic
-Starz Encore Black
-Starz Encore Family
-Starz Encore Suspense
-Starz Encore Westerns
 Cinemax
-Cinemax Hits
-Cinemax Action
-Cinemax Classics
 MGM+
-MGM+ Hits
-MGM+ Marquee
-MGM+ Drive-In
-ScreenPix
-ScreenPix Action
-ScreenPix Voices
-ScreenPix Westerns
-MoviePlex
-IndiePlex
-RetroPlex
 TCM
-The Movie Channel
-Crave 1 CA
-Crave 2 CA
-Crave 3 CA
-Crave 4 CA
-
-🌎影视剧场,#genre#
-FX
-FXM
-FXX
-Hallmark Channel
-Hallmark Family
-Hallmark Mystery
-Lifetime
-LMN
-Syfy
-Comet TV
-MeTV
-COZI TV
-TV Land
-Sony Movie Channel
-Ion
 Paramount Network
-Sundance TV
-IFC
-Freeform
-Pop
-get.
-Bounce
-GRIT
-INSP
-TV One
+
+# 英国新闻
+BBC News
+Sky News
+
+# 英国体育
+Sky Sports Main Event
+Sky Sports Premier League
+Sky Sports Football
+Sky Sports F1
+Sky Sports Cricket
+Sky Sports Golf
+Sky Sports Racing
+TNT Sports
+
+# 英国电影
+Sky Cinema
 BBC America
-At the Movies
-MovieSphere by Lionsgate
-HerSphere by Lionsgate
-OuterSphere by Lionsgate
-Universal Movies
-Universal Action
-Universal Western
-Universal Monsters
-Universal Crime
-AMC Thrillers
-Stories by AMC
-CW Forever
-CW Gold
-FilmRise Action
-FilmRise Free Movies
-FilmRise Western
-FilmRise Classic TV
-FilmRise British TV
-FilmRise Black TV
-FilmRise Sci-Fi
-FilmRise Horror
-FilmRise Comedy
-FilmRise Drama
-CINEVAULT
-CINEVAULT Classics
-CINEVAULT Westerns
-Sky Cinema Premiere UK
-Sky Cinema Select UK
-Sky Cinema Hits UK
-Sky Cinema Greats UK
-Sky Cinema Family UK
-Sky Cinema Action UK
-Sky Cinema Comedy UK
-Sky Cinema Thriller UK
-Sky Cinema Drama UK
-Sky Cinema Sci-Fi & Horror UK
-Sky Cinema Animation UK
-Sky Atlantic UK
-Sky Witness UK
-Sky Comedy UK
-Sky Sci-Fi UK
-BritBox Mysteries UK
+BritBox
 
-📡法国新闻,#genre#
-France 24 English FR
-Euronews FR
+# 加拿大体育
+TSN 1
+TSN 2
+TSN 3
+TSN 4
+TSN 5
+Sportsnet
 
-📡德国新闻,#genre#
-DW English
+# 欧洲体育
+EuroSport
+Sport TV
+Cosmote Sport
+Ziggo Sport
+Premier Sports
 
-📡卡塔尔新闻,#genre#
-Al Jazeera English QA
+# 澳洲体育
+Fox Sports
 
-📡法国体育,#genre#
-EuroSport 1
-EuroSport 2
+# 新西兰体育
+SKY Sport
+
+# 4K超清
+Love Nature 4K
+Sportsnet 4K
+TSN 4K
+
+# 亚太其他
+beIN Sports
+Hub Sports

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yzfneo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV 1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 1 综合.png" group-title="🕘️更新时间",2026-04-21 09:11:56
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV 1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV 1 综合.png" group-title="🕘️更新时间",2026-04-21 09:21:10
 http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MTV Live.png" group-title="🌏台湾",MTV Live
 http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
@@ -29,6 +29,8 @@ https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Reuters.png" group-title="🌎美国新闻",Reuters
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 tvg-id="NewsNation" tvg-name="NewsNation" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewsNation.png" group-title="🌎美国新闻",NewsNation
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23232
 #EXTINF:-1 tvg-id="C-SPAN" tvg-name="C-SPAN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/C-SPAN.png" group-title="🌎美国新闻",C-SPAN
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48417
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNBC.png" group-title="🌎美国新闻",CNBC
@@ -41,6 +43,8 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="CNBC UK" tvg-name="CNBC UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNBC UK.png" group-title="🌎英国新闻",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/cb573e1f796c648e9dd43d6fcef74782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b25a40db6df2b2014bc42a43fa83439fd501b3d4865e8317d324f5409d97a68cda128b8c81599706e6274759326da684769ec854b8a8f40355875018762171c98eb2d76021dc3b2930f9fbd8f164ef03f187248c6545d76af254a500ba5484288ac453faddd1b643452aeac7547137a197c3e09a6569ce0c9ca3edce3d7890f266102daf76e811021c8da7b37ee3c21185f8278ba01b7052ab8a71baaf95a6db9fbd7e817fb4ad999939510077073d9549b09363dc5bb012c3d52702637e709fb37be39beb6f5a1127346851ae71339299e2abd0003c8a4b1454ef12b631674dff44a7f8784f83fe1d7f802770e57f5da91d5d08258d7fa4dde944c4501bcc219b0e4b9505892a989823ba643d162abcfc2b606e4373d7d4ab6c5a76ee4afedac6ed764655a2a78db6f75a36033600414ca5d6a721cbc090725d21c85d70342f500fc0509f29fe10590c2bfe1bd1870060ca53727aa8f4691d1247befc9cadcb96c64dbe7a93e8f83a243410239e3b172963d6f9dc0aa5761b302a13d04f5742bb06484ba5c09ab2d7d338bce90ec00f6b1a67cae704015802010424afd0398710b2e95ed3fded53c3e881173ff51fab131f93d59c21b8da88c94b0087b9157e4392c02cd17c3dcd74857fd832111e18bda97a1871d8da8fc83c35dd72b1e43ebf4550/140/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="🌎美国体育",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN2.png" group-title="🌎美国体育",ESPN2
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/38227
 #EXTINF:-1 tvg-id="ESPNEWS" tvg-name="ESPNEWS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPNEWS.png" group-title="🌎美国体育",ESPNEWS
@@ -149,6 +153,8 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/23290
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48366
 #EXTINF:-1 tvg-id="MSGSN" tvg-name="MSGSN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MSGSN.png" group-title="🌎美国体育",MSGSN
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23289
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WWE Network.png" group-title="🌎美国体育",WWE Network
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47642
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/UFC.png" group-title="🌎美国体育",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 #EXTINF:-1 tvg-id="PFL" tvg-name="PFL" tvg-logo="https://www.xn--rgv465a.top/tvlogo/PFL.png" group-title="🌎美国体育",PFL
@@ -225,6 +231,8 @@ http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/46693
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48496
 #EXTINF:-1 tvg-id="Sport TV 2 PT" tvg-name="Sport TV 2 PT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sport TV 2 PT.png" group-title="🌎葡萄牙体育",Sport TV 2 PT
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
+#EXTINF:-1 tvg-id="Sport TV 4 PT" tvg-name="Sport TV 4 PT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sport TV 4 PT.png" group-title="🌎葡萄牙体育",Sport TV 4 PT
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
 #EXTINF:-1 tvg-id="Sport TV 5 PT" tvg-name="Sport TV 5 PT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sport TV 5 PT.png" group-title="🌎葡萄牙体育",Sport TV 5 PT
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/352
 #EXTINF:-1 tvg-id="Sport TV 6 PT" tvg-name="Sport TV 6 PT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sport TV 6 PT.png" group-title="🌎葡萄牙体育",Sport TV 6 PT
@@ -293,6 +301,8 @@ http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6084
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6085
 #EXTINF:-1 tvg-id="Love Nature 4K CA" tvg-name="Love Nature 4K CA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Love Nature 4K CA.png" group-title="🌎4K超清",Love Nature 4K CA
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+#EXTINF:-1 tvg-id="Sportsnet 4K CA" tvg-name="Sportsnet 4K CA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sportsnet 4K CA.png" group-title="🌎4K超清",Sportsnet 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260804
 #EXTINF:-1 tvg-id="Sportsnet One 4K CA" tvg-name="Sportsnet One 4K CA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sportsnet One 4K CA.png" group-title="🌎4K超清",Sportsnet One 4K CA
 http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
 #EXTINF:-1 tvg-id="TSN 4K CA" tvg-name="TSN 4K CA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TSN 4K CA.png" group-title="🌎4K超清",TSN 4K CA
@@ -329,6 +339,10 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/23256
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
 #EXTINF:-1 tvg-id="Starz" tvg-name="Starz" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz.png" group-title="🌎精品电影",Starz
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14915
+#EXTINF:-1 tvg-id="Starz Edge" tvg-name="Starz Edge" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Edge.png" group-title="🌎精品电影",Starz Edge
+http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595776
+#EXTINF:-1 tvg-id="Starz in Black" tvg-name="Starz in Black" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz in Black.png" group-title="🌎精品电影",Starz in Black
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130008
 #EXTINF:-1 tvg-id="Starz Cinema" tvg-name="Starz Cinema" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Cinema.png" group-title="🌎精品电影",Starz Cinema
 http://fastream.xyz:8080/998742589tv1/58520km/206
 #EXTINF:-1 tvg-id="Starz Encore Action" tvg-name="Starz Encore Action" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Encore Action.png" group-title="🌎精品电影",Starz Encore Action
@@ -357,6 +371,10 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/23326
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14167
 #EXTINF:-1 tvg-id="MGM+ Drive-In" tvg-name="MGM+ Drive-In" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MGM+ Drive-In.png" group-title="🌎精品电影",MGM+ Drive-In
 http://epicboss.live/bjune@teksavvy.com/5193594414/115154
+#EXTINF:-1 tvg-id="ScreenPix Action" tvg-name="ScreenPix Action" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ScreenPix Action.png" group-title="🌎精品电影",ScreenPix Action
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130051
+#EXTINF:-1 tvg-id="ScreenPix Voices" tvg-name="ScreenPix Voices" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ScreenPix Voices.png" group-title="🌎精品电影",ScreenPix Voices
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130053
 #EXTINF:-1 tvg-id="ScreenPix Westerns" tvg-name="ScreenPix Westerns" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ScreenPix Westerns.png" group-title="🌎精品电影",ScreenPix Westerns
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130054
 #EXTINF:-1 tvg-id="MoviePlex" tvg-name="MoviePlex" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MoviePlex.png" group-title="🌎精品电影",MoviePlex
@@ -383,14 +401,28 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/23309
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark Channel" tvg-name="Hallmark Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hallmark Channel.png" group-title="🌎影视剧场",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark Family" tvg-name="Hallmark Family" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hallmark Family.png" group-title="🌎影视剧场",Hallmark Family
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48377
 #EXTINF:-1 tvg-id="Hallmark Mystery" tvg-name="Hallmark Mystery" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hallmark Mystery.png" group-title="🌎影视剧场",Hallmark Mystery
 http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Syfy.png" group-title="🌎影视剧场",Syfy
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15964
 #EXTINF:-1 tvg-id="Comet TV" tvg-name="Comet TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comet TV.png" group-title="🌎影视剧场",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 #EXTINF:-1 tvg-id="MeTV" tvg-name="MeTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MeTV.png" group-title="🌎影视剧场",MeTV
 http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
+#EXTINF:-1 tvg-id="COZI TV" tvg-name="COZI TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/COZI TV.png" group-title="🌎影视剧场",COZI TV
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23337
+#EXTINF:-1 tvg-id="TV Land" tvg-name="TV Land" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV Land.png" group-title="🌎影视剧场",TV Land
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23241
 #EXTINF:-1 tvg-id="Ion" tvg-name="Ion" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Ion.png" group-title="🌎影视剧场",Ion
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Paramount Network.png" group-title="🌎影视剧场",Paramount Network
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23254
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sundance TV.png" group-title="🌎影视剧场",Sundance TV
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23250
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IFC.png" group-title="🌎影视剧场",IFC
+http://kstv.us:8080/4VUyfZBQzk/95104974615/44202
 #EXTINF:-1 tvg-id="Pop" tvg-name="Pop" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Pop.png" group-title="🌎影视剧场",Pop
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23263
 #EXTINF:-1 tvg-id="get." tvg-name="get." tvg-logo="https://www.xn--rgv465a.top/tvlogo/get..png" group-title="🌎影视剧场",get.
@@ -399,8 +431,12 @@ http://epicboss.live/bjune@teksavvy.com/5193594414/33299
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="GRIT" tvg-name="GRIT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/GRIT.png" group-title="🌎影视剧场",GRIT
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129885
+#EXTINF:-1 tvg-id="INSP" tvg-name="INSP" tvg-logo="https://www.xn--rgv465a.top/tvlogo/INSP.png" group-title="🌎影视剧场",INSP
+http://kstv.us:8080/4VUyfZBQzk/95104974615/48238
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV One.png" group-title="🌎影视剧场",TV One
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129971
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC America.png" group-title="🌎影视剧场",BBC America
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23359
 #EXTINF:-1 tvg-id="At the Movies" tvg-name="At the Movies" tvg-logo="https://www.xn--rgv465a.top/tvlogo/At the Movies.png" group-title="🌎影视剧场",At the Movies
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c/variant.m3u8?x-plex-token=PHHYKCk8EJy656HLLAvM&x-plex-advertising-identifier=&x-plex-client-identifier=8a9b2a7d61f34a5999a68969af0cc577&x-plex-playback-id=p_e2b662b1-dfae-4ded-a5d3-d8ad331fa92d&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=&x-plex-device-name=Plex+Web&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Web&x-plex-platform-version=&x-plex-product=Plex+Web&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=4.150.0&x-plex-provider-streaming-start=1776701431&url=808eb2fce18e3348928fd50823ff65e7-dae785a84aa598395a8836240c8befc470eeb8608f8d458db91117a1bb53fdba1293435ed84c54eaf7371bfb986c31e57999e6b1612858c2c3a39862f1ab1a5b1991aca408b0bffcd30511e9b06d3b3a486ff030aed013d16b401293dffb51ec5eed6ded6545cce28d79f175a894a4c4eb6fa3d609d89a6396c4f0d8a67d24f291ed25dc44054b4be5b8a1c9a42c49305a67d8326d097850bae8e5aa231849689c02c38499a4fd3310be5ada3174417961380d49157f650704efd61813ff5f1a86dba1c020bee47b52faea9aa216ae73eb043f47bb0e279979bf3ef50c968510233aaa454a83dbd3e59db07c090901209929534d2e7750d14162396b41a2bca9e9fb389afc31e3377d33adb91f72a921f10226ae2fe038afb2c6775ff253b2211977c9bed9f2cb1b8b7604bea7f96f5f98c675de00e1e5c1059f95d86d651557a8507c8f383a9f349b90006dfbc0e32634c4778404560a01f3eae81764f9fc171c94365920512b94738165d37788bcdbd7dea46bc51c87f26a9f79ff7fa904e92fd1686c037786f5b41842926b5023ec9a8f9e107fb0d9b5f864e4c58e3f337dc95c30f058111f2591a9b61889f56f412e0c87cc771aa09e7cee97271ca953765a629e598befa43fdd5caa296b107f2c9e0b1b08bf080bb97649a56fa51b5166c2c1e4bd27bcfec07b89d13a99ac55328ad73f8c8999b80bbe66f7fedb50d2eb44e3476b32a8839a840dca083e713507234a6a9ea7b4ad7e250b742d9584ae38c3fda4348e24ceffc18e9cb412840747290df52387e71a7a3aa1aa1bf4b8653fd3769bde488634cddc791172466b3d2dd2410643218280b53d4c70974ded4de9dc5a2abe2427211cc982fad39f6c1110ad8696be990c227ac8d89de453b42be2b57baf34e42f5289aa01b9475cf95de3a000f2c8a12c5a8568f7fc241dc4d4b3870d74bb85abc06be7f029e4d79c1542dce9ff9351945f872b408d78a704e9e3857afcc2acf9b55f987fffad28b98b951bb1987af30eaf64d7406666f46fdb11e413f0edaeb217adfebc535d454e5f2e1f41999af86b262a7afa7e77f35bc868e0bf8d5ac105d0f96283bcc598f3bf889cbfdbe9c7b4ec12de19591590a63cdb595c49168744525a2e8024df06cddf87e83363dc95ba3551967c694426dbd87aaf8e4b5f883d35aa4c4a175bd4df33ce15175b1bbabd97467eed2fd6c0d56fcd462dfa81d6f5a609d4a0ed810e31035418411735d7a1198d0d7d32de41b146757867af03576081a678fb9aea58a652ec24f0f6ebff115550d90d61ac7a39f3595f58213bb7540537713cd8e0d1b913a0a961912fdcf35f98e316bd7654ecf3171a2b3d6ee5c234db8384c4ccd1ed68b6137145a2175bd7b4a4b5477e89d29c8a4bc0bc9414e947065493e75317cfa87be2070a694c89f34e71fc60072cbaebc107f5c211081fb9e0271b1372c81d92c9d9b5f9d720b8b2d25ac5b1f55c2c8bf9e3ec0c7f47437f143840eae974f293077c89758582647b0c9e302bdd3e807e1e93a6b9be77bd33e7cd8f338dd059167de7e51794abc6edcf0906515df10ee9285099a820fecd56860dc7b5314fbc8dfd080874afb61b853542c916dfe2e1ed988622c90ed4c8e00d57a5a25901589ea04afa949d25564b65ca8462966be944a2e83e506fb0a7778ec73ad0bb5b6d11e84f69b44e1df3f16465f54412441cdbb946ec943a5745e17cca28eaa932c1fdbf8d55431d6f68f4da3718b82ab1b9f1e4cd7cd260a4f66eaaec634aa4800e01c6b201f55e0fb28de46e0c78a95b3fcb008549820a5b0c6e7ca41b3036735e03847b59f80cd0356fbc0465691d0b2c60dad40cc3d32962620ee8fdcbbc7c68e665ed72360ff91339dcb2267b7f3c3a7a6c54a94f3536058145c7a403d73bd1f125857c98de43759ce245e3c6f6a12f65e397100edfda852a5d1ea7ed81e532f3377b6f6aa2dcaaa6f807d9f827d660008c467b0d0a2559e221f548604711e2dfb10aefb2d2dcd25400d59baf86de174a2c74bbe7978a21282e8b69cb77d8f502016fe48d44730ae39cea8d6ed7f4cd442dc390885dc6723a6476dcf2827b9d7b2fd4b07f7f9a67c28d39262f9c4bc7f43a280f1f5bf0f73f493493f1813bfc51f0de47324f11c3ad1ea7470cfd22ab872f30a8d69682cb5ad23733a3ea9fbc7af1baeb3ecb22f60caa939d68147b4f1aa481c58f18f666bf776a8912a68e91f1dc3ce609f729ded8112587b37e8bfc5da077fbe1b4dd4ebc6c85b262feef2c2d3e4dda486c74ad799c9b9ab2d76be5c03d2e25176a8a0e5895d44af7720bfb9e9696910fc0a1a52929bc1749fb4adc587b5fd222855dc3ecf5e83119e96d44d4c604b9c22290457c1a4465acf1d2b80ee1f672ac0119937e622b6146511e65ac6097c3bb3416b285f461fa36f659fb4cff4c89efe9616d4fd35b9d44d94531afbb
 #EXTINF:-1 tvg-id="MovieSphere by Lionsgate" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MovieSphere by Lionsgate.png" group-title="🌎影视剧场",MovieSphere by Lionsgate
@@ -469,6 +505,8 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47823
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47816
 #EXTINF:-1 tvg-id="Sky Cinema Sci-Fi & Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Sci-Fi & Horror UK.png" group-title="🌎影视剧场",Sky Cinema Sci-Fi & Horror UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47821
+#EXTINF:-1 tvg-id="Sky Cinema Animation UK" tvg-name="Sky Cinema Animation UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Animation UK.png" group-title="🌎影视剧场",Sky Cinema Animation UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47814
 #EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="Sky Atlantic UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Atlantic UK.png" group-title="🌎影视剧场",Sky Atlantic UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47812
 #EXTINF:-1 tvg-id="Sky Witness UK" tvg-name="Sky Witness UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Witness UK.png" group-title="🌎影视剧场",Sky Witness UK

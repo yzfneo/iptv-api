@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 09:11:56,http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
+2026-04-21 09:21:10,http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
 
 📺央视频道,#genre#
 
@@ -28,6 +28,7 @@ HBO Hits,http://23.237.104.106:8080/USA_HBO2/index.m3u8
 🌎美国新闻,#genre#
 Fox News,http://kstv.us:8080/4VUyfZBQzk/95104974615/22530
 MS NOW,http://kstv.us:8080/4VUyfZBQzk/95104974615/22506
+NewsNation,http://kstv.us:8080/4VUyfZBQzk/95104974615/23232
 C-SPAN,http://kstv.us:8080/4VUyfZBQzk/95104974615/48417
 CNBC,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
 
@@ -35,6 +36,7 @@ CNBC,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
 BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 🌎美国体育,#genre#
+ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN2,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/38227
 ESPNEWS,http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts
 ESPNU,https://xemzi.short.gy/40000013
@@ -84,6 +86,7 @@ Space City Home Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/47475
 MSG,http://kstv.us:8080/4VUyfZBQzk/95104974615/23290
 MSG 2,http://kstv.us:8080/4VUyfZBQzk/95104974615/48366
 MSGSN,http://kstv.us:8080/4VUyfZBQzk/95104974615/23289
+WWE Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/47642
 World Fishing Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/23203
 
 🌎加拿大体育,#genre#
@@ -125,6 +128,7 @@ EuroSport 1 UK,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/46693
 🌎葡萄牙体育,#genre#
 Sport TV 1 PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48496
 Sport TV 2 PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
+Sport TV 4 PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48499
 Sport TV+ PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48501
 
 🌎希腊体育,#genre#
@@ -158,6 +162,7 @@ SKY Sport 9 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
 🌎澳洲体育,#genre#
 
 🌎4K超清,#genre#
+Sportsnet 4K CA,http://hardcoremedia.xyz/rabdsbmz/3731346838/260804
 Sportsnet One 4K CA,http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
 TSN 4K CA,http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
 Bloomberg TV 4K,https://d2d98ykcmmhgd4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3jvz2ljlxc2im/b971dde4-82ac-449a-8612-5f12ec050ed4/0.m3u8
@@ -176,6 +181,8 @@ Showtime Women,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595766
 Showtime Family Zone,http://kstv.us:8080/4VUyfZBQzk/95104974615/23256
 Showtime Showcase,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
 Starz,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14915
+Starz Edge,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595776
+Starz in Black,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130008
 Starz Cinema,http://fastream.xyz:8080/998742589tv1/58520km/206
 Starz Encore Action,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
 Starz Encore Classic,http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
@@ -190,6 +197,8 @@ MGM+,http://epicboss.live/bjune@teksavvy.com/5193594414/19074
 MGM+ Hits,http://kstv.us:8080/4VUyfZBQzk/95104974615/23326
 MGM+ Marquee,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14167
 MGM+ Drive-In,http://epicboss.live/bjune@teksavvy.com/5193594414/115154
+ScreenPix Action,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130051
+ScreenPix Voices,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130053
 ScreenPix Westerns,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130054
 MoviePlex,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130058
 RetroPlex,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595800
@@ -204,14 +213,23 @@ FX,http://23.237.104.106:8080/USA_FX/index.m3u8
 FXM,http://kstv.us:8080/4VUyfZBQzk/95104974615/23309
 FXX,http://23.237.104.106:8080/USA_FXX/index.m3u8
 Hallmark Channel,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+Hallmark Family,http://kstv.us:8080/4VUyfZBQzk/95104974615/48377
 Hallmark Mystery,http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
+Syfy,http://kstv.us:8080/4VUyfZBQzk/95104974615/15964
 Comet TV,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 MeTV,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
+COZI TV,http://kstv.us:8080/4VUyfZBQzk/95104974615/23337
+TV Land,http://kstv.us:8080/4VUyfZBQzk/95104974615/23241
+Paramount Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/23254
+Sundance TV,http://kstv.us:8080/4VUyfZBQzk/95104974615/23250
+IFC,http://kstv.us:8080/4VUyfZBQzk/95104974615/44202
 Pop,http://kstv.us:8080/4VUyfZBQzk/95104974615/23263
 get.,http://epicboss.live/bjune@teksavvy.com/5193594414/33299
 Bounce,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 GRIT,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129885
+INSP,http://kstv.us:8080/4VUyfZBQzk/95104974615/48238
 TV One,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129971
+BBC America,http://kstv.us:8080/4VUyfZBQzk/95104974615/23359
 HerSphere by Lionsgate,https://amg00353-lionsgatestudio-hersphere-lgus-3vv9h.amagi.tv/ts-us-w2-n2/playlist/amg00353-lionsgatestudio-hersphere-lgus/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e21a1b9c7e11e7845fc8814eee9dd55ac8429b27f617cb8fa5ded61686d09360ab52b2365319481398846addcd58a0d3996c349d7a2d34713f8b98b7db7815a5627c71d9d4ee823fbe79a08821922e36ab108e4a96238364a47bc88b239b8c8bef7d771c96f7724e099dbfd5e0933437ae28fcabffd30115f3912f5668e74efd1f717bfa92ca10978d1486a63091bb7b182dd29d37ebf7dcb8ce80bd75af11e5f5d1ad0f6e73394568e85ca68923df2ccb71abcb07384c4836c2f038ffa2fc6819416ab9b467e43626e3a0e1e8de0a2884610b4ae661d45e7700a65e575dd51dc6b41d41ac1b50ff5f56fa5c26ce41f3ad22e1b5c2976d51dce5e46dca41db8733efac7cc3013d5d11fdf03951414078d9ea14635a15f864d4e3f5c3422724c0d2f0a4b2395f063d041c008af69517f1ebfb053022fc09650a1b1113854ad16dcf124a0f20da1bddb87b04ef681a0ac2970d627943b8fb94afb3eb9030df17d2cbee77283f4971cf5b6f4055f492bd6bc0623414175c841c2a56ae17484bfc94cafcebee04a2a751990752264af3d13478340801096d9a947b9958e1986fdef1af67eacca62f1ff956cf00148d9eca65fdfa92ce550ae2c63d735ca1fa02f24004fd32e971f8b816d9b44648152c322ea8ea6fd66f8485e1ad409b28be010a78eb6ca28ce6c1ba0c3cdcb86c120c3d6c275a6f2c5166d4dbd1774e7fe9aa2ee558efef27c4283f081b62e8ab237bb9c15321c64d140da4a4d8c5a9c50d1fde7df179c51264cc32360acfff05b0c0d89cfb837c1a04dca0a24fbeac8785c9dab85614655714bef7767652e70bdfa822cd90470e85ee8ae1c9209e73e347dceed315cd1a81f6e67ec4f69cfae839025f283196a5cccf35e6e64e2fd77adf5e630c9d98e3f171fadece73129866d4a435498b0a5f79f68ad728e71c9dc204709bed0058d1677cc5edfe2d19ba4bcd4d0959d4fba84d1ef0ee2eb868a6a7c6653fe4baf6eb3d3c49873e93afb06768a1971c0e569f646dee56b7b812d8c410d4f64736230c767543b11219446c591b62929aaa7d903e00f7fed6438b459393e21dc9831fe7f28bdba1eb3f5a8cf80211c8de8661ac0ec1c386f434a51c34e438d1524fa7dcd5f0dce3d4bf949f37540c9348db24c975dae99ad14d465b2ae15e6e757fb55de21b195f91f350c88c4478c98bae548d5502054a3f18fb3492d055444c288ca65a98de616d202c13e0d109ba16fb145fd11927f34a21425f345347a385c4548b7a8b39e2a22b6f8fe1989166dfde588fccb9b7ef765fb8154c286f96b8889dd53350dd849a9d3012ecc86da71f783c6bcf9a8d747bfa874307fdb18660b4ac69e449625a8fb3337e9d6019415af23469838979f99b58f390d8f5a3/140/1920x1080_6046040/index.m3u8
 OuterSphere by Lionsgate,https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
 AMC Thrillers,https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
@@ -228,6 +246,7 @@ Sky Cinema Comedy UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47815
 Sky Cinema Thriller UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47823
 Sky Cinema Drama UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47816
 Sky Cinema Sci-Fi & Horror UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47821
+Sky Cinema Animation UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47814
 Sky Atlantic UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47812
 Sky Witness UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47833
 Sky Comedy UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47825

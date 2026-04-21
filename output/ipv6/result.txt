@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 09:11:56,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+2026-04-21 09:21:10,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 📺央视频道,#genre#
 

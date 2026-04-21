@@ -1,8 +1,245 @@
 🕘️更新时间,#genre#
-2026-04-21 08:28:50,url
+2026-04-21 09:11:56,http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
-☘️广东频道,#genre#
+🌆港澳,#genre#
+
+🌏台湾,#genre#
+MTV Live,http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
+
+⚽体育,#genre#
+
+📺综合,#genre#
+Red Bull TV,https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/a9fb7059-0e09-45d6-a75e-7740c2bf8316/1.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
+HBO Hits,http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+🌴马来西亚,#genre#
+
+📍地方台,#genre#
+
+🎮游戏赛事,#genre#
+
+📻广播,#genre#
+
+🌎美国新闻,#genre#
+Fox News,http://kstv.us:8080/4VUyfZBQzk/95104974615/22530
+MS NOW,http://kstv.us:8080/4VUyfZBQzk/95104974615/22506
+C-SPAN,http://kstv.us:8080/4VUyfZBQzk/95104974615/48417
+CNBC,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
+
+🌎英国新闻,#genre#
+BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+🌎美国体育,#genre#
+ESPN2,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/38227
+ESPNEWS,http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts
+ESPNU,https://xemzi.short.gy/40000013
+ESPN Deportes,http://kstv.us:8080/4VUyfZBQzk/95104974615/47105
+ACC Network,http://23.237.104.106:8080/USA_ACCN/mpegts
+SEC Network,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+FS1,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/756
+FS2,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
+CBS Sports Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/15944
+NBC Sports Bay Area,http://kstv.us:8080/4VUyfZBQzk/95104974615/28744
+NBC Sports Boston,http://kstv.us:8080/4VUyfZBQzk/95104974615/28743
+NBC Sports California,http://kstv.us:8080/4VUyfZBQzk/95104974615/28742
+NBC Sports Philadelphia,http://kstv.us:8080/4VUyfZBQzk/95104974615/28738
+beIN SPORTS,http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
+beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USAJ4300001Q7
+Fubo Sports Network,https://dnf08l6u6uxnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwrh2vjyudfjo/5999cb1e-489e-434e-b70a-755f69ec828e/5.m3u8
+Marquee Sports Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/47466
+Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
+NBA TV,http://212.102.60.231/NBA_TV/index.m3u8
+Spectrum SportsNet LA Dodgers,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/141497
+Spectrum SportsNet Lakers,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/141498
+YES Network,http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+Altitude Sports,http://kstv.us:8080/4VUyfZBQzk/95104974615/48335
+Sportsnet New York,http://212.102.60.231/SNY/index.m3u8
+Sportsnet Pittsburgh,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/59945
+NFL Network,http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+MLB Network,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
+NHL Network,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+Willow Cricket,http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
+Golf Channel,http://kstv.us:8080/4VUyfZBQzk/95104974615/15943
+Tennis Channel,https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8cb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a5191d922c44efd117d4d74dbf88c95a9f15876ba046cc91ed888246848e9165ae57b367086a2217e1e8f838543fccb8af5a7bf144264f0a50e2e3a0ea4f2883543124929de59e15329753eb5fec4e38a914900fa53d8f79a30aa69b2eeacde9992ac95ed5479e9a83e06582aa82ad003ea300b6d17d3913b8fb116a4eca6c9701233193fccc1bbe1274fca30e8aae601134c1de10d5cdf2cbc2b18e439231c5d4fcc37d6b4077010ec670a3992df41a9d40e89f431e0d187bfad315e596c95235554a84ab57c05c4eea8cc5d0894e73e1482f77c42c99570c67c9744b79e626f6d37c4f813405883072aa0c62ce12b2e862a5e7e8e4003aa7d78817ac38a1e65ca09968cd420f193ac1957d0f7a1d28efb91c4a5a1fe44aebd4c6e4056c21fce7c1fbba3e1b0f2b185f09cbafa75fa8cef86b7a32c4402d747b001df45d8589bec0bee881af00d02132a4bb9b4d47303603ecb9e276/93/1920x1080_5060000/index.m3u8
+F1 Channel,https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51e4f9d2b44b6d640d4821ab882c95a9f15866bf9409bc6edda8643d0d29966af06ba305f025617f1817d80875ab2ca881b51f61713613a65d49ec980245087435012faeac5bb69fa1acafb4beb0c0c9a30a870a605a44f862c9abb0dcac2badb510f3da1d2526222adeaa48ff74743d708c086cceb5a5fbcc9395763ec41e5785152fbfccf07cac01a83b83797ad1b7652a9aa66b4a89cb7dd89b010ec4facc6f08b734b5e116268e2668baa50816ab717a9ca006f5b4954bf995aca95dc5024103fecee65f3372b8be4a8acf13d1ee4542600a90ab75a017f8230696aec2efc973d678c5465ef5806df7d03a961d98701d48cfed85c4bdfb8c646ec21fab478b49c6692581d6458cb98415e415f33d4e16802246ac649e8a1ad8b123224c2c4f0a4b2395f063d041c058de39517f1ebfb003b37fc09650a1b1113854ad779cf135d0f3ccc0bc1a07b04ef681a0cd697006e6e43a4ed84b3abeb9005df11d2cbee772e2b4975b821162f61ddc4e23390036a4e4a62b62a56709428747fb0eaa38898847d808977ba2a6b0262c6e9652f633e485639a4a05afe68c3b02484c1b136a7ee89010b842cb30f1193d5ae009287bae67f3faf84763442aa8966af1d2cc3049a2f8dc479dbb5411f0c393227a8e36fdb7a8ff6b9e214ae159d6a3e249112d09de7a0986f50e6855323367b397d15695f0a2d87eeec542546b6f84d8a5ce2f81bbd4346343a53df86722aec9a4c28bd0759459181efb48ce62f3ffd4bd048931d69ca56093dafc83dfc8ab1f6f3831d396ab28d8f698d88aba4f3ffee1b247906579ac54c1b7bd93282eb6d84963151dbb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235f926c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a157e7f3d5b1ca5bfc11573123955e54f2e3ab6751e554ccfbf3/10/1920x1080_5287612/index.m3u8
+MotoGP TV,https://d1kqz1q7knpsue.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6imqvc1ng6dh/865532b0-a6fe-4943-9c23-193c5c3788ce/4.m3u8
+FanDuel Sports Network Detroit,http://kstv.us:8080/4VUyfZBQzk/95104974615/31589
+FanDuel Sports Network Florida,http://kstv.us:8080/4VUyfZBQzk/95104974615/49210
+FanDuel Sports Network Midwest,http://kstv.us:8080/4VUyfZBQzk/95104974615/49214
+FanDuel Sports Network North,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217337
+FanDuel Sports Network Ohio,http://kstv.us:8080/4VUyfZBQzk/95104974615/49218
+FanDuel Sports Network Oklahoma,http://kstv.us:8080/4VUyfZBQzk/95104974615/49221
+FanDuel Sports Network West,http://kstv.us:8080/4VUyfZBQzk/95104974615/47471
+FanDuel Sports Network SoCal,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217341
+FanDuel Sports Network Southeast,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217344
+FanDuel Sports Network Southwest,http://kstv.us:8080/4VUyfZBQzk/95104974615/31581
+FanDuel Sports Network Sun,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217347
+FanDuel Sports Network Wisconsin,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217348
+Space City Home Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/47475
+MSG,http://kstv.us:8080/4VUyfZBQzk/95104974615/23290
+MSG 2,http://kstv.us:8080/4VUyfZBQzk/95104974615/48366
+MSGSN,http://kstv.us:8080/4VUyfZBQzk/95104974615/23289
+World Fishing Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/23203
+
+🌎加拿大体育,#genre#
+TSN1 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15929
+TSN2 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15928
+TSN3 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15927
+TSN4 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15926
+TSN5 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15925
+Sportsnet Ontario CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40615
+Sportsnet East CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40617
+Sportsnet West CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40613
+Sportsnet Pacific CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40614
+Sportsnet ONE CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40616
+Sportsnet 360 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40618
+Sportsnet World CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/15936
+
+🌎英国体育,#genre#
+Sky Sports Main Event UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
+Sky Sports Premier League UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
+Sky Sports Football UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47866
+Sky Sports News UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47870
+Sky Sports F1 UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
+Sky Sports Cricket UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
+Sky Sports Mix UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
+Sky Sports Golf UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
+Sky Sports Racing UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47872
+Sky Sports Action UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
+Sky Sports+ UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
+TNT Sports 1 UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47850
+TNT Sports 2 UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
+TNT Sports 3 UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
+TNT Sports 4 UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
+Premier Sports 1 UK,http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts
+Premier Sports 2 UK,http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts
+
+🌎意大利体育,#genre#
+EuroSport 1 UK,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/46693
+
+🌎葡萄牙体育,#genre#
+Sport TV 1 PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48496
+Sport TV 2 PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48497
+Sport TV+ PT,http://kstv.us:8080/4VUyfZBQzk/95104974615/48501
+
+🌎希腊体育,#genre#
+Cosmote Sport 3 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8
+Cosmote Sport 4 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8
+Cosmote Sport 5 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
+Cosmote Sport 6 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8
+Cosmote Sport 7 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8
+Cosmote Sport 8 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8
+Cosmote Sport 9 GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8
+
+🌎阿尔巴尼亚体育,#genre#
+Super Sport 1 AL,http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+Super Sport 2 AL,http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+Super Sport 3 AL,http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+
+🌎荷兰体育,#genre#
+Ziggo Sport NL,https://xemzi.short.gy/140001
+Ziggo Sport 3 NL,https://xemzi.short.gy/140003
+Ziggo Sport 4 NL,https://xemzi.short.gy/140004
+
+🌎新西兰体育,#genre#
+SKY Sport 1 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307979
+SKY Sport 2 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307980
+SKY Sport 3 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307981
+SKY Sport 4 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307982
+SKY Sport 5 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307983
+SKY Sport 8 Premier League NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307986
+SKY Sport 9 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
+
+🌎澳洲体育,#genre#
+
+🌎4K超清,#genre#
+Sportsnet One 4K CA,http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
+TSN 4K CA,http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
+Bloomberg TV 4K,https://d2d98ykcmmhgd4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3jvz2ljlxc2im/b971dde4-82ac-449a-8612-5f12ec050ed4/0.m3u8
+NESN 4K,https://xemzi.short.gy/4000080
+
+🌎精品电影,#genre#
+HBO Drama,http://epicboss.live/bjune@teksavvy.com/5193594414/24887
+HBO Comedy,http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+HBO Movies,http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+Paramount+ with Showtime,http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+Showtime 2,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
+Showtime Extreme,http://kstv.us:8080/4VUyfZBQzk/95104974615/23257
+Showtime Next,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595762
+SHOxBET,http://epicboss.live/bjune@teksavvy.com/5193594414/50999
+Showtime Women,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595766
+Showtime Family Zone,http://kstv.us:8080/4VUyfZBQzk/95104974615/23256
+Showtime Showcase,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
+Starz,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14915
+Starz Cinema,http://fastream.xyz:8080/998742589tv1/58520km/206
+Starz Encore Action,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
+Starz Encore Classic,http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+Starz Encore Black,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
+Starz Encore Family,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
+Starz Encore Westerns,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
+Cinemax,http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+Cinemax Hits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Cinemax Action,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/13992
+Cinemax Classics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+MGM+,http://epicboss.live/bjune@teksavvy.com/5193594414/19074
+MGM+ Hits,http://kstv.us:8080/4VUyfZBQzk/95104974615/23326
+MGM+ Marquee,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14167
+MGM+ Drive-In,http://epicboss.live/bjune@teksavvy.com/5193594414/115154
+ScreenPix Westerns,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130054
+MoviePlex,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130058
+RetroPlex,http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/595800
+The Movie Channel,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
+Crave 1 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40656
+Crave 2 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40655
+Crave 3 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40654
+Crave 4 CA,http://kstv.us:8080/4VUyfZBQzk/95104974615/40653
+
+🌎影视剧场,#genre#
+FX,http://23.237.104.106:8080/USA_FX/index.m3u8
+FXM,http://kstv.us:8080/4VUyfZBQzk/95104974615/23309
+FXX,http://23.237.104.106:8080/USA_FXX/index.m3u8
+Hallmark Channel,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+Hallmark Mystery,http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
+Comet TV,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
+MeTV,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
+Pop,http://kstv.us:8080/4VUyfZBQzk/95104974615/23263
+get.,http://epicboss.live/bjune@teksavvy.com/5193594414/33299
+Bounce,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+GRIT,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129885
+TV One,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129971
+HerSphere by Lionsgate,https://amg00353-lionsgatestudio-hersphere-lgus-3vv9h.amagi.tv/ts-us-w2-n2/playlist/amg00353-lionsgatestudio-hersphere-lgus/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e21a1b9c7e11e7845fc8814eee9dd55ac8429b27f617cb8fa5ded61686d09360ab52b2365319481398846addcd58a0d3996c349d7a2d34713f8b98b7db7815a5627c71d9d4ee823fbe79a08821922e36ab108e4a96238364a47bc88b239b8c8bef7d771c96f7724e099dbfd5e0933437ae28fcabffd30115f3912f5668e74efd1f717bfa92ca10978d1486a63091bb7b182dd29d37ebf7dcb8ce80bd75af11e5f5d1ad0f6e73394568e85ca68923df2ccb71abcb07384c4836c2f038ffa2fc6819416ab9b467e43626e3a0e1e8de0a2884610b4ae661d45e7700a65e575dd51dc6b41d41ac1b50ff5f56fa5c26ce41f3ad22e1b5c2976d51dce5e46dca41db8733efac7cc3013d5d11fdf03951414078d9ea14635a15f864d4e3f5c3422724c0d2f0a4b2395f063d041c008af69517f1ebfb053022fc09650a1b1113854ad16dcf124a0f20da1bddb87b04ef681a0ac2970d627943b8fb94afb3eb9030df17d2cbee77283f4971cf5b6f4055f492bd6bc0623414175c841c2a56ae17484bfc94cafcebee04a2a751990752264af3d13478340801096d9a947b9958e1986fdef1af67eacca62f1ff956cf00148d9eca65fdfa92ce550ae2c63d735ca1fa02f24004fd32e971f8b816d9b44648152c322ea8ea6fd66f8485e1ad409b28be010a78eb6ca28ce6c1ba0c3cdcb86c120c3d6c275a6f2c5166d4dbd1774e7fe9aa2ee558efef27c4283f081b62e8ab237bb9c15321c64d140da4a4d8c5a9c50d1fde7df179c51264cc32360acfff05b0c0d89cfb837c1a04dca0a24fbeac8785c9dab85614655714bef7767652e70bdfa822cd90470e85ee8ae1c9209e73e347dceed315cd1a81f6e67ec4f69cfae839025f283196a5cccf35e6e64e2fd77adf5e630c9d98e3f171fadece73129866d4a435498b0a5f79f68ad728e71c9dc204709bed0058d1677cc5edfe2d19ba4bcd4d0959d4fba84d1ef0ee2eb868a6a7c6653fe4baf6eb3d3c49873e93afb06768a1971c0e569f646dee56b7b812d8c410d4f64736230c767543b11219446c591b62929aaa7d903e00f7fed6438b459393e21dc9831fe7f28bdba1eb3f5a8cf80211c8de8661ac0ec1c386f434a51c34e438d1524fa7dcd5f0dce3d4bf949f37540c9348db24c975dae99ad14d465b2ae15e6e757fb55de21b195f91f350c88c4478c98bae548d5502054a3f18fb3492d055444c288ca65a98de616d202c13e0d109ba16fb145fd11927f34a21425f345347a385c4548b7a8b39e2a22b6f8fe1989166dfde588fccb9b7ef765fb8154c286f96b8889dd53350dd849a9d3012ecc86da71f783c6bcf9a8d747bfa874307fdb18660b4ac69e449625a8fb3337e9d6019415af23469838979f99b58f390d8f5a3/140/1920x1080_6046040/index.m3u8
+OuterSphere by Lionsgate,https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
+AMC Thrillers,https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
+CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
+CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
+CINEVAULT,https://wurlgameshownetwork.global.transmit.live/us-west-2-b/manifest/68d16f229e868efab9c34b16/7b49c2a8-8bab-42e9-84a7-66a2e4dea7cf/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/video-avc1.640029-mp4a.40.2-3.m3u8?h=720&playlistUri=https%253A%252F%252F967d9da6.wurl.com%252Fv1%252Fgsn_cinevault_80s_1%252Flg_us%252FV00000002%252F0%252FHLS%252Fplaylist_3000k_20260310T132253.m3u8&sessionStart=1776700429177&streamPath=v1%2Fgsn_cinevault_80s_1%2Flg_us%2Flatest%2Fmain%2Fhls%2Fplaylist.m3u8&uid=__USER_ID__&w=1280
+Sky Cinema Premiere UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47820
+Sky Cinema Select UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47822
+Sky Cinema Hits UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47819
+Sky Cinema Greats UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47818
+Sky Cinema Family UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47817
+Sky Cinema Action UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47813
+Sky Cinema Comedy UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47815
+Sky Cinema Thriller UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47823
+Sky Cinema Drama UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47816
+Sky Cinema Sci-Fi & Horror UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47821
+Sky Atlantic UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47812
+Sky Witness UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47833
+Sky Comedy UK,http://kstv.us:8080/4VUyfZBQzk/95104974615/47825
+Sky Sci-Fi UK,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14932
+BritBox Mysteries UK,https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8
+
+📡法国新闻,#genre#
+France 24 English FR,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/ts-eu-w1-n2/playlist/amg00106-france24-france24-samsunguk/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1ac32640b28210d4804fb9d2c95a9f15866ba0469893ed8c82178b8e9167ab5fe3645c025c17f4817d808749b5e5897d2b957f2f34733f8db8a7dd710fb2756a72dfe291cf0f9612ca9a6b826f27ab01ea2cee51da31d963c0e04ab3e3bfd6463351cea240511489c1bdd0835f54bc62e8ecedd3670ef49c7f6373e85fff071f17a0c9d64ec4a97b97b230cbb5790d07c49e489a94bcf181dae151bd15faf8d0b71063674d1958fa37ce9b69c867dc68b8f11d20514836c1f03fdfa7e96e0f4c6eaba543e61371c1b30a28426c41a85528188555d7521169c8745f68e439fc894e14e34424a445f07fc557fa2fd2b73ee1af9bc40b3ea7d7c443850fa5d558949e8ace1cbf9cf917b2ac7d6535e5e36da3f62441630f8bf2c7e4650003edb8eef6c9503900362d836de1f7ca7f8187cc251c59941d76203c3d16950dd87dd013415b6ee010c7a90534a807226dc9947f651a3dc6f7e0d4b8818304946fc3c3f80e2a39726aa97c5075399de5db19b513634a5771cc4f684ab6021a65ef96c2ead0c04dc68e6ba73d2d453796be470f591c2323399a9669c557adc64eeed5990abe80e7766ab67c9b7377cf80e33dadd2d6bd0865f68d5816609bd655a0523dd71bd151e5f178cabf58035c710067f1ce6cbd389dda89cc3f953ca72c522cbc98da334d437c0085f00e405e43b055085b3498677cda25/126/1920x1080_6046040/index.m3u8
+
+📡德国新闻,#genre#
+
+📡卡塔尔新闻,#genre#
+Al Jazeera English QA,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+
+📡法国体育,#genre#

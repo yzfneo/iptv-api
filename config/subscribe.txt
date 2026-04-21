@@ -3,8 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 https://tv.iill.top/m3u/Gather.m3u
-
-# https://garyshare.sharewithyou.dpdns.org/mylist.m3u
+https://gist.githubusercontent.com/yzfneo/6ccc43ac7d633e7eef07b87d9c9081db/raw/mylist.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

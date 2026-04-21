@@ -1,89 +1,19 @@
 🕘️更新时间,#genre#
-2026-04-21 22:13:42,https://v.iill.top/api/CCTV1/index.m3u8
+2026-04-21 22:38:02,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 CCTV,#genre#
-CCTV1,https://v.iill.top/api/CCTV1/index.m3u8
-CCTV1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-CCTV2,https://v.iill.top/api/CCTV2/index.m3u8
-CCTV2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
-CCTV3,https://v.iill.top/api/CCTV3/index.m3u8
-CCTV3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
-CCTV4,https://v.iill.top/api/CCTV4/index.m3u8
-CCTV4,https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
-CCTV4欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
-CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-CCTV5,https://v.iill.top/api/CCTV5/index.m3u8
-CCTV5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-CCTV5+,https://v.iill.top/api/CCTV5+/index.m3u8
-CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV6,https://v.iill.top/api/CCTV6/index.m3u8
-CCTV6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-CCTV7,https://v.iill.top/api/CCTV7/index.m3u8
-CCTV7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
-CCTV8,https://v.iill.top/api/CCTV8/index.m3u8
-CCTV8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
-CCTV9,https://v.iill.top/api/CCTV9/index.m3u8
-CCTV9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
-CCTV10,https://v.iill.top/api/CCTV10/index.m3u8
-CCTV10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-CCTV11,https://v.iill.top/api/CCTV11/index.m3u8
-CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV12,https://v.iill.top/api/CCTV12/index.m3u8
-CCTV12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-CCTV13,https://v.iill.top/api/CCTV13/index.m3u8
-CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV14,https://v.iill.top/api/CCTV14/index.m3u8
-CCTV14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV15,https://v.iill.top/api/CCTV15/index.m3u8
-CCTV15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
-CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 
 CETV,#genre#
-CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
-CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
-CETV3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
-CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 
 CGTN,#genre#
 
 卫视,#genre#
-北京卫视,https://v.iill.top/api/bjws/index.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,https://v.iill.top/api/dfws/index.m3u8
-东方卫视,https://tv.iill.top/kdf/2030
-东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-广东卫视,https://v.iill.top/api/gdws/index.m3u8
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,https://v.iill.top/api/zjws/index.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
-江苏卫视,https://v.iill.top/api/jsws/index.m3u8
-江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-湖南卫视,https://v.iill.top/api/hnws/index.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-四川卫视,https://v.iill.top/api/scws/index.m3u8
-四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 
 港澳,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
-ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
-HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 台湾,#genre#
 
 香港,#genre#
-無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 
 美国新闻,#genre#
 CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -131,15 +61,10 @@ UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83da
 WWE Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/47642
 beIN SPORTS,http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
 beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USAJ4300001Q7
-beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
-beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
 
 美国电影,#genre#
 HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
-HBO,https://hls.iill.top/api/HBO/index.m3u8
 HBO Hits,http://23.237.104.106:8080/USA_HBO2/index.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Comedy,http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 HBO Drama,http://epicboss.live/bjune@teksavvy.com/5193594414/24887
 HBO Movies,http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
@@ -360,7 +285,6 @@ SKY Sport 9 NZ,http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
 马来西亚,#genre#
 
 新加坡,#genre#
-iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 
 4K,#genre#
 Clarity 4K,https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/51e90851-a1fe-45bf-bbe2-591b2bf91b9f/3.m3u8
@@ -408,62 +332,13 @@ TLC,http://kstv.us:8080/4VUyfZBQzk/95104974615/15969
 台湾电台,#genre#
 
 国内电台,#genre#
-浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
-浙江交通之声,https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-浙江城市之声,https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
-浙江经济广播,https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
-湖北城市之声,https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
-楚天交通广播,https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
-安徽交通广播,https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
-安徽经济广播,https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-福建东南广播,https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
-山东交通广播,https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-山东体育休闲广播,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-陕西交通广播,https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
-陕西农村广播,https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
-陕西戏曲广播,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
-陕西新闻广播,https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
-河南交通广播,https://stream.hndt.com/live/jiaotong/playlist.m3u8
-河南信息广播,https://stream.hndt.com/live/leling/playlist.m3u8
-河南教育广播,https://stream.hndt.com/live/jiaoyu/playlist.m3u8
-河南新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
-河南经济广播,https://stream.hndt.com/live/jingji/playlist.m3u8
-河北交通广播,https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
-河北文艺广播,https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-河北生活广播,https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
-河北经济广播,https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
-辽宁交通广播,https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
-辽宁乡村广播,https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
-辽宁经济广播,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
-哈尔滨交通广播,https://tv.iill.top/fm/840
-哈尔滨文艺广播,https://tv.iill.top/fm/836
-哈尔滨经济广播,https://tv.iill.top/fm/842
-哈尔滨音乐广播,https://tv.iill.top/fm/835
-江西都市广播,https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
-广西交通广播,https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
-广西北部湾之声,https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
-广西教育广播,https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
-云南新闻广播,https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
-云南民族广播,https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
-贵州旅游广播,https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
-贵州经济广播,https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
-四川交通广播,https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-四川经济广播,https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-甘肃经济广播,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-甘肃都市调频,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-青海经济广播,https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
-内蒙古新闻广播,https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
-内蒙古经济生活广播,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 
 中国之声,#genre#
-中国交通广播,https://tv.iill.top/fm/755
 
 香港台,#genre#
 
 特色频道,#genre#
 Red Bull TV,https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/a9fb7059-0e09-45d6-a75e-7740c2bf8316/1.m3u8
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 Trace Urban UK,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e41f49c12c17b6d45f9cd449bf9dd55ac8439b7ea41dcb8fa18d861481d39435a957b5365328481498846addca52a6ca9b1b5af610781c6d3f81a297ed00388f4331349299d08f56d637d3d35deb0736bf13d64b8a24f806c062bcd56f928a9eeb6d710db99e1b0b49a1e1b3c4fa25238262f4afe8d47d0ef79c786366f95de7060415b1d4e509debf7ffab72796fa680d28ff9f449698c0ef85da966bac15f5e9d5b5185f141d6e6f8759b1d479d816ce6cbac71d262e202ec68161e7b9ea6a024b61a19d6ce57968d169638ca56c13e1227272e76ede1b2e63c2331e138f4fd8a94ca70dbb68ff511ce85134fa22b6d87eb0cf538277fc3df689ddde39cfccf58ebab65387007948ddd33f56440355dfe061321b76cd42de02ab8b62240ff6fec1f2c11c6d4969571a218ae1ee7e8f81d3214656e85d326578503a97079646ec4071407f992182f93623cc46003df6ab3a6a5f6ebdc1a5ced2859d0ae6299387d6111b16752ffd3f0c2d6b9391885af637023e595592006946f2560e11a4c587b5d7d02efd9d62ab2a6b5b3696a759125f201c096eb4a328ef2c85c24d86ca9f639b95ca7823a233ac061c9ba2b94de8fd8dc23562b3a245166a92936a855c1e872f964cacd763d3a45a16165e141c22efb7388f13b96d9993273b68469d64fb51966929e9fc/44/1920x1080_5288800/index.m3u8
 A&E,http://kstv.us:8080/4VUyfZBQzk/95104974615/15966
@@ -473,7 +348,6 @@ AXS TV,http://kstv.us:8080/4VUyfZBQzk/95104974615/47160
 Comet TV,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 World Fishing Network,http://kstv.us:8080/4VUyfZBQzk/95104974615/23203
-BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Earth UK,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
 Science Channel,http://epicboss.live/bjune@teksavvy.com/5193594414/134148
 Nat Geo Wild,http://kstv.us:8080/4VUyfZBQzk/95104974615/23285

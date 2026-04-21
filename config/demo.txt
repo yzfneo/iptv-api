@@ -1,4 +1,4 @@
-# CCTV
+CCTV,#genre#
 CCTV1
 CCTV2
 CCTV3
@@ -20,20 +20,20 @@ CCTV15
 CCTV16
 CCTV17
 
-# CETV
+CETV,#genre#
 CETV1
 CETV2
 CETV3
 CETV4
 
-# CGTN
+CGTN,#genre#
 CGTN
 CGTN外语纪录
 CGTN法语
 CGTN西班牙语
 CGTN阿拉伯语
 
-# 卫视
+卫视,#genre#
 北京卫视
 东方卫视
 广东卫视
@@ -63,7 +63,7 @@ CGTN阿拉伯语
 云南卫视
 深圳卫视
 
-# 港澳
+港澳,#genre#
 凤凰中文
 凤凰资讯
 ViuTV
@@ -87,7 +87,7 @@ RTHK34
 RTHK35
 RTHK普通话
 
-# 台湾
+台湾,#genre#
 TVBS
 TVBS新聞
 TVBS歡樂台
@@ -182,7 +182,7 @@ TVBS精采台
 中天綜合台
 公視戲劇
 
-# 香港
+香港,#genre#
 無綫新聞台
 鳳凰衛視中文台
 鳳凰衛視資訊台
@@ -193,7 +193,7 @@ TVBS精采台
 TVB Plus
 TVB XING HE
 
-# 美国新闻
+美国新闻,#genre#
 CNN US
 CNN International
 Fox News
@@ -210,7 +210,7 @@ NewsNation
 Reuters
 LiveNOW from FOX
 
-# 美国体育
+美国体育,#genre#
 ESPN
 ESPN2
 ESPNU
@@ -247,7 +247,7 @@ beIN Sports 3
 beIN Sports 4
 beIN Sports 5
 
-# 美国电影
+美国电影,#genre#
 HBO
 HBO HD
 HBO Hits
@@ -293,7 +293,7 @@ FXM
 FXX
 SHOxBET
 
-# 美国综合
+美国综合,#genre#
 AMC
 AMC Thrillers
 TBS
@@ -321,7 +321,7 @@ Court TV
 Investigation Discovery
 LMN
 
-# 美国儿童
+美国儿童,#genre#
 Cartoon Network
 Nickelodeon
 Nick Jr.
@@ -333,13 +333,13 @@ Boomerang
 Adult Swim
 Kids
 
-# 英国新闻
+英国新闻,#genre#
 BBC News UK
 BBC News International
 Sky News
 ITV1 UK
 
-# 英国体育
+英国体育,#genre#
 Sky Sports Main Event UK
 Sky Sports Premier League UK
 Sky Sports Football UK
@@ -357,7 +357,7 @@ TNT Sports 2 UK
 TNT Sports 3 UK
 TNT Sports 4 UK
 
-# 英国电影
+英国电影,#genre#
 Sky Cinema Premiere UK
 Sky Cinema Select UK
 Sky Cinema Hits UK
@@ -378,7 +378,7 @@ Sky Arts UK
 BBC America
 BritBox Mysteries UK
 
-# 英国综合
+英国综合,#genre#
 ITV2 UK
 ITV3 UK
 ITV4 UK
@@ -400,7 +400,7 @@ Sky Crime UK
 Sky Nature UK
 Travel Channel UK
 
-# 加拿大体育
+加拿大体育,#genre#
 TSN1 CA
 TSN2 CA
 TSN3 CA
@@ -413,10 +413,8 @@ Sportsnet Pacific CA
 Sportsnet ONE CA
 Sportsnet 360 CA
 Sportsnet World CA
-Sportsnet New York
-Sportsnet Pittsburgh
 
-# 加拿大综合
+加拿大综合,#genre#
 CTV Toronto CA
 CTV2 Vancouver CA
 CBC Toronto CA
@@ -435,16 +433,14 @@ CTV Comedy Channel CA
 CTV Drama Channel CA
 CTV Life Channel CA
 CTV Sci-Fi Channel CA
-CTV Speed Channel CA
-Crime & Investigation CA
 
-# 加拿大4K
+加拿大4K,#genre#
 Love Nature 4K CA
 Sportsnet 4K CA
 Sportsnet One 4K CA
 TSN 4K CA
 
-# 欧洲体育
+欧洲体育,#genre#
 EuroSport 1
 EuroSport 2
 Sport TV 1 PT
@@ -464,7 +460,7 @@ Cosmote Sport 7 GR
 Cosmote Sport 8 GR
 Cosmote Sport 9 GR
 
-# 澳洲体育
+澳洲体育,#genre#
 Fox Sports 501 AU
 Fox Sports 502 AU
 Fox Sports 503 AU
@@ -473,7 +469,7 @@ Fox Sports 505 AU
 Fox Sports 506 AU
 Fox Sports 507 AU
 
-# 新西兰体育
+新西兰体育,#genre#
 SKY Sport 1 NZ
 SKY Sport 2 NZ
 SKY Sport 3 NZ
@@ -484,26 +480,22 @@ SKY Sport 7 NZ
 SKY Sport 8 Premier League NZ
 SKY Sport 9 NZ
 
-# 马来西亚
+马来西亚,#genre#
 天映經典頻道
 天映马来西亚
 AOD
 QJ
-Channel 8
-Channel U
 
-# 新加坡
+新加坡,#genre#
 iQIYI
 
-# 4K
+4K,#genre#
 Clarity 4K
 Loupe 4K
 Bloomberg TV 4K
 Sky Sports F1 4K UK
-NESN 4K
-V Sport UltraHD SE
 
-# 国际新闻
+国际新闻,#genre#
 France 24 English FR
 FRANCE24 英文台
 Euronews FR
@@ -511,7 +503,7 @@ DW English
 DW德國之聲
 Al Jazeera English QA
 
-# 国际电影
+国际电影,#genre#
 CinemaWorld
 Classic Cinema
 Sundance TV
@@ -524,7 +516,7 @@ MoviePlex
 IndiePlex
 RetroPlex
 
-# 国际综合
+国际综合,#genre#
 National Geographic
 Nat Geo Wild
 Discovery Channel
@@ -544,11 +536,11 @@ Travel Channel
 Magnolia Network
 TLC
 
-# 香港电台
+香港电台,#genre#
 商業電台 叱咤903
 商業電台 雷霆881
 
-# 台湾电台
+台湾电台,#genre#
 HitFM劲曲调频
 AsiaFM成都96.5
 NiceFM
@@ -557,7 +549,7 @@ NiceFM
 I Radio
 城市96.5
 
-# 国内电台
+国内电台,#genre#
 北京交通广播
 北京文艺广播
 北京新闻广播
@@ -756,7 +748,7 @@ I Radio
 内蒙古草原之声广播
 内蒙古音乐之声
 
-# 中国之声
+中国之声,#genre#
 中国之声
 中国乡村之声
 中国交通广播
@@ -765,15 +757,14 @@ I Radio
 音乐之声
 经典947
 
-# 香港台
+香港台,#genre#
 台海之声
 大湾区之声
 神州之声
 民族之声
 老年之声
-轻松调频
 
-# 特色频道
+特色频道,#genre#
 Red Bull TV
 FashionTV FR
 FashionTV 時尚頻道
@@ -802,7 +793,7 @@ PBS Nature
 PBS Science
 PBS History
 
-# 电影
+电影,#genre#
 Kino
 IndiePlex
 MoviePlex
@@ -811,11 +802,11 @@ HerSphere by Lionsgate
 OuterSphere by Lionsgate
 MovieSphere by Lionsgate
 
-# 儿童
+儿童,#genre#
 Baby First
 Baby TV
 
-# 音乐
+音乐,#genre#
 Vevo '70s
 Vevo '80s
 Vevo '90s
@@ -833,13 +824,13 @@ MTV Classic
 MTV Live
 MTV2
 
-# 多语言
+多语言,#genre#
 ARIRANG阿里郎頻道
 CNBC Asia 財經台
 SBN全球財經台
 CGTN阿拉伯语
 
-# 新增补充
+新增补充,#genre#
 Nice TV靖天歡樂台
 Smart知識台
 ELTV英語學習台
